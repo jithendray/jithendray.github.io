@@ -1,0 +1,46 @@
+- company: Qualcomm
+  url: https://www.qualcomm.com/
+  time: Jan 2023 - Present
+  position: Intern
+  description: Worked in SoC Integration team.
+  projects:
+    - name: Automating UPF flow 
+      url: https://www.qualcomm.com/
+      description: Developed couple of scripts for Power Intent analysis at SoC level using python.
+      points:
+        - Implemented python scripts for Power Intent analysis for SoCs.
+        - Automated some part of the flow for the Unified Power Format generation.
+      used:
+        - thing: Python
+        - thing: Cadence tool
+        - thing: Synopsis tool
+        - thing: Linux
+
+    - name: SoC Integration
+      url: https://www.qualcomm.com/
+      description: I am part of Integration team which involves integrating IP cores at SoC level.
+      points:
+        - Worked on connectivity of AHB, APB, AXI interfaces. 
+        - Understand about the basics of the SoC and NoC, with focus on architecture and importance of SoC.
+        - Worked on connectivity of major cores in SoC like CPU, and understood the function of various IPs, ports and their functions.
+      used:
+        - thing: Qualcomm Architecture
+        - thing: System Verilog
+- company: KNM TECH
+  url: https://itic.iith.ac.in/startups.html
+  time: Sep 2022 - Nov 2022
+  position: Analog design intern
+  description: An IIT Hyderabad incubated start-up based in IITH. Worked on a amplifier piezoelectric accelerometer.
+  projects:
+    - name: Amplifier for piezoelectric accelemeter
+      url: https://www.qualcomm.com/
+      description: Designed a amplifier for piezoelectric accelerometer with JFET, and FinFET. Worked on the PCB for the final amplifier circuit. 
+      points:
+        - Designed real-time piezoelectric accelerometers with amplification at the output.
+        - Assembled a prototype PCB.
+        - Designed a 7mm dia PCB. 
+      used:
+        - thing: JFET
+        - thing: FinFET
+        - thing: KiCAD
+        - thing: Linux

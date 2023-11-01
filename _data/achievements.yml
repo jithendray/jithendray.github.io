@@ -1,0 +1,7 @@
+- title: Study of gate current in advanced MOS architectures - <br/> Solid Electronics, 2022
+  description: We have carried out a comprehensive study of the gate current(IG) in advanced MOS architectures for different gate lengths and cross section areas using an in house simulation tool We have considered only direct tunneling under the assumption that trap concentration and therefore the trap assisted current would be small in a matured technology We also investigated the effect of the interfacial(IL) SiO 2 layer on gate current in a high gate stack Our results suggest that IL leads to an increase in the gate current for equivalent EOT They also emphasize that decreasing the cross section area results in a significant increase in the IG. 
+  used:
+    - thing: Semiconductors
+    - thing: python
+    - thing: Statistics
+    - thing: In house Tool

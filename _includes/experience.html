@@ -1,0 +1,42 @@
+<section class="section experience">
+  <div class="section__title">Experience</div>
+  <div class="section__content">
+    <div class="jobs">
+      {% for job in site.data.experience %}
+      <div class="job">
+        <div class="time-place">
+          <div class="job__company">
+            <a href="{{job.url}}" target="_blank">{{job.company}}</a>
+          </div>
+          <div class="job__time">{{job.time}}</div>
+        </div>
+        <div class="job__position">{{job.position}}</div>
+        <p class="job__description">{{job.description}}</p>
+        {% for project in job.projects %}
+        <div class="project">
+          <div class="project__name">
+            <a>- {{project.name}}</a>
+          </div>
+          <div class="project__description">
+            <p>{{project.description}}</p>
+          </div>
+          <div class="project__content">
+            <div class="project__points">
+              {% for point in project.points %}
+              <p>- {{point}}</p>
+              {% endfor %}
+            </div>
+          </div>
+          <div class="project__used">
+            {% for item in project.used %}
+            <span class="project__used__item">{{item.thing}}</span>
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+</section>

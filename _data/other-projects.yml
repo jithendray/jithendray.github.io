@@ -1,0 +1,18 @@
+- name: EDR CAD
+  url: https://sites.google.com/ee.iith.ac.in/drovesbadami/home/academics?authuser=0
+  description: Working under the guidence of Dr. Oves Muhammed Hussain Badami. We analysed the Poisson and Schrodinger equation and carrier concentration in semiconductors to develop an efficient simulation tool in C++ based on 1D and 2D meshes of semiconductors.
+  points:
+  used:
+    - thing: SemiConductors
+    - thing: C++
+    - thing: git
+    - thing: Statistics
+
+- name: Correlation Coefficients
+  url: https://github.com/Hashish-y/DSA_project
+  description: Executed under the guidance of Prof. Shantanu Desai for the course Data Science Analysis. Implemented to understand how each correlation coefficient is affected by altering the relationship between the two variables and by introducing outliers.
+  used:
+    - thing: Python
+    - thing: NumPy
+    - thing: Pandas
+    - thing: astroML

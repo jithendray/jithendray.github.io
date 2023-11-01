@@ -1,0 +1,45 @@
+# Site settings
+name: Hashish
+title: Hashish | IITH
+description: Senior year student at IIT Hyderabad pursuing Electrical Engineering, Intern at Qualcomm as Digital Design Intern. 
+url: https://abhi1401.github.io/
+baseurl: ''
+email: abhishek.mvr@outlook.com
+cover: https://abhi1401.github.io/img/og.png
+logo: https://abhi1401.github.io/img/emojis/technologist.png
+resume: https://abhi1401.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:abhishek.mvr@outlook.com
+  - title: github
+    url: https://github.com/abhi1401
+  - title: codepen
+    url: http://codepen.io/abhi1401
+  - title: linkedin
+    url: https://www.linkedin.com/in/abhishek-c
+  - title: hackerrank
+    url: https://www.hackerrank.com/abhi1401
+  - title: strava
+    url: https://www.strava.com/athletes/35910654
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

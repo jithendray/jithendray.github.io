@@ -1,0 +1,26 @@
+languages:
+  - item: Verilog
+  - item: System Verilog
+  - item: Python
+  - item: C++
+  - item: C
+backend:
+  - item: GPIO
+  - item: FIFO
+  - item: OpenCV
+  - item: NumPy
+
+infra:
+  - item: ARM Architecture
+  - item: ARM Protocols
+  - item: Interrupt Controller
+
+tools:
+  - item: Cadence Power Intent
+  - item: KiCAD
+  - item: SolidEdge
+  - item: Vivado
+
+testing:
+  - item: KiCAD
+  - item: ABACUS (nanohub)
