@@ -1,26 +1,30 @@
 languages:
-  - item: Verilog
-  - item: System Verilog
   - item: Python
-  - item: C++
-  - item: C
-backend:
-  - item: GPIO
-  - item: FIFO
-  - item: OpenCV
-  - item: NumPy
+  - item: SQL
+  - item: PySpark
+  - item: Scala
+  - item: HTML/CSS
+  - item: JavaScript
 
-infra:
-  - item: ARM Architecture
-  - item: ARM Protocols
-  - item: Interrupt Controller
+frameworks:
+  - item: Spark
+  - item: Hadoop
+  - item: Keras
+  - item: Kafka
+  - item: Django
+  - item: PyTorch
 
 tools:
-  - item: Cadence Power Intent
-  - item: KiCAD
-  - item: SolidEdge
-  - item: Vivado
+  - item: AWS
+  - item: Git & Github
+  - item: Airflow
+  - item: Azure
+  - item: PostgreSQL & MySQL
+  - item: MongoDB
 
-testing:
-  - item: KiCAD
-  - item: ABACUS (nanohub)
+technologies:
+  - item: ETL design & testing
+  - item: Data Warehousing
+  - item: Time Series Forecasting
+  - item: Machine Learning
+  - item: Data Structures & Algorithms
