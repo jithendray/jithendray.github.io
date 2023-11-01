@@ -1,18 +1,66 @@
-- name: EDR CAD
-  url: https://sites.google.com/ee.iith.ac.in/drovesbadami/home/academics?authuser=0
-  description: Working under the guidence of Dr. Oves Muhammed Hussain Badami. We analysed the Poisson and Schrodinger equation and carrier concentration in semiconductors to develop an efficient simulation tool in C++ based on 1D and 2D meshes of semiconductors.
-  points:
+- name: FPGA Neural Network Accelerator
+  url: https://github.com/tirumalnaidu/opencl-hls-cnn-accelerator
+  code: https://github.com/tirumalnaidu/opencl-hls-cnn-accelerator
+  description: A Neural Network Accelerator for Darknet Reference Model for image classification on Imagenet Dataset on Intel Cyclone V Soc FPGA which achieved around 300% faster inference speed than CPU, when connected to ARM Cortex A9 processor.
   used:
-    - thing: SemiConductors
-    - thing: C++
-    - thing: git
-    - thing: Statistics
+    - thing: FPGA
+    - thing: Image Classification
+    - thing: C
+    - thing: OpenCL
 
-- name: Correlation Coefficients
-  url: https://github.com/Hashish-y/DSA_project
-  description: Executed under the guidance of Prof. Shantanu Desai for the course Data Science Analysis. Implemented to understand how each correlation coefficient is affected by altering the relationship between the two variables and by introducing outliers.
+- name: Fraud Detection service
+  url: https://github.com/jithendray/aws-SageMaker-fraud-detection
+  code: https://github.com/jithendray/aws-SageMaker-fraud-detection
+  description: Credit card fraud detection with AWS Sage maker and deployed on AWS Cloud9.
+  used:
+    - thing: AWS
+    - thing: Machine Learning
+    - thing: Python
+    - thing: JavaScript
+
+- name: Forecasting Air pollution
+  url: https://github.com/jithendray/forecasting-air-pollution
+  code: https://github.com/jithendray/forecasting-air-pollution
+  description: Explored various models for forecasting time series and compared the performance of the models over two different metrics.
+  used:
+    - thing: Time Series
+    - thing: Forecasting
+    - thing: Python
+    - thing: Machine Learning
+
+- name: Heartbeat anomaly detection
+  url: https://nbviewer.org/github/jithendray/mini-projects/blob/main/heart-ECG-anomaly-detection/AutoEncoder_AnomalyDetection.ipynb
+  code: https://nbviewer.org/github/jithendray/mini-projects/blob/main/heart-ECG-anomaly-detection/AutoEncoder_AnomalyDetection.ipynb
+  description: Detected anomalies in 5000 time series sequences with 140 timestamps obtained with ECG and corresponds to heartbeats from a single patient using LSTM Auto-encoder.
   used:
     - thing: Python
-    - thing: NumPy
-    - thing: Pandas
-    - thing: astroML
+    - thing: Deep Learning
+    - thing: Anomaly Detection
+
+- name: When Music meets Data Science
+  url: https://github.com/jithendray/mini--projects/tree/main/when-music-meets-datascience
+  code: https://github.com/jithendray/mini--projects/tree/main/when-music-meets-datascience
+  description: What's common between top songs on Spotify from 2010-19; Analyzed my personal Spotify streaming history; Analyzed music discographies of 2 of my favorite artists; etc.
+  used:
+    - thing: Data Science
+    - thing: Data Analysis
+    - thing: Python
+
+- name: Buy or Sell Stocks?
+  url: https://nbviewer.org/github/jithendray/mini-projects/blob/main/buy-or-sell-stocks/MARUTI_DMAC.ipynb
+  code: https://nbviewer.org/github/jithendray/mini-projects/blob/main/buy-or-sell-stocks/MARUTI_DMAC.ipynb
+  description: Predicted when to buy or sell stocks using simple dual moving average crossover strategy. And then backtested it over 5 years of stock.
+  used:
+    - thing: Data Science
+    - thing: Python
+    - thing: Back Testing
+
+- name: Stock Market Analysis and Forecasting
+  url: https://github.com/jithendray/mini--projects/tree/main/forecasting-Stocks
+  code: https://github.com/jithendray/mini--projects/tree/main/forecasting-Stocks
+  description: Explored forecasting models based on Long Short Term Memory(LSTM) and Facebook's Prophet in order to predict the future prices.
+  used:
+    - thing: Time Series
+    - thing: Forecasting
+    - thing: Python
+    - thing: Statistics
