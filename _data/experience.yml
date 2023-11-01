@@ -1,46 +1,84 @@
-- company: Qualcomm
-  url: https://www.qualcomm.com/
-  time: Jan 2023 - Present
-  position: Intern
-  description: Worked in SoC Integration team.
+- company: NeenOpal Inc.
+  url: https://www.neenopal.com/
+  time: Jun 2021 - Present
+  position: Data Engineer
+  description: Developing end-to-end cloud-based automated data warehousing and scalable ETL solutions for global clients operating in a variety of sectors
   projects:
-    - name: Automating UPF flow 
-      url: https://www.qualcomm.com/
-      description: Developed couple of scripts for Power Intent analysis at SoC level using python.
+    - name: Enterprise-wide ETL + BI Implementation (AWS + PowerBI) for a multinational Logistics company
+      description: Developed a comprehensive end-to-end ETL solution for 6 distinct SBUs within a company, AWS and PowerBI.
       points:
-        - Implemented python scripts for Power Intent analysis for SoCs.
-        - Automated some part of the flow for the Unified Power Format generation.
+        - Architected a robust data model and established a data warehouse from the ground up on Redshift. 
+        - Developed ETL pipelines to facilitate the seamless migration of data from an array of sources, including SAP, third-party data sources via APIs, and manual Excel files.
+        - Developed intricate SQL queries to ingeniously transform raw data tables into informative datasets to fuel PowerBI dashboards with actionable insights.
+      used:
+        - thing: AWS
+        - thing: Python
+        - thing: SQL
+        - thing: Redshift
+        - thing: AWS Glue
+
+    - name: ETL+ BI Implementation (AWS + Tableau) for an Edtech Company
+      description: Led a team of 2 Data Engineers for development of automated ETL jobs
+      points:
+        - Orchestrated the development of ETL workflows to seamlessly migrate transactional data from AWS Aurora to Redshift, effectively utilizing Glue.
+        - Ensured the consistent quality control and performance monitoring of daily ETL scripts, promptly addressing any issues or errors that arose.  
+      used:
+        - thing: Amazon Redshift
+        - thing: Amazon Aurora
+        - thing: AWS Glue
+    
+    - name: BI Implementation (Azure + PowerBI) for a leading provider of employee scheduling software
+      description: Led a team of 2 Data Engineers for development of automated ETL jobs
+      points:
+        - Actively engaged in collaborative meetings with stakeholders to gain a deep understanding of the underlying logic behind various sales KPIs.
+        - Developed SQL queries and Python scripts to execute complex calculations for the KPIs
+        - Created backend data models and views in Azure SQL database to dynamically transform raw Salesforce data into insightful data for powering 8 different dashboards consisting of 30+ sales KPIs.
+      used:
+        - thing: Azure SQL Database
+        - thing: SQL
+        - thing: Azure Data Factory
+
+    - name: ETL + Forecatsing for a London based real-estate company
+      description: Took charge of the complete data engineering responsibilities for the entire project
+      points:
+        - Engineered ETL pipelines to facilitate the monthly migration of data from government sources, extracting information from both APIs and manual files stored in S3, and seamlessly loading it into an RDS PostgreSQL database.
+        - Developed complex SQL queries for transforming raw property related data into insightful data.
+        - Collaborated with the data scientist to contribute to the development of a sophisticated multivariate time-series forecasting model.
+        - This model was designed to predict the average property price growth in various UK regions over the course of the next decade.
+      used:
+        - thing: PostgreSQL
+        - thing: Python
+        - thing: PySpark
+        - thing: bash
+
+- company: NeenOpal Inc.
+  url: https://www.neenopal.com/
+  time: Nov 2020 - May 2021
+  position: Data Scientist Intern
+  # description: Collaborated with a Senior Data Scientist in the development Sales forecasting model 
+  projects:
+    - name: Sales and Invventory Forecasting for one of the largest Tiles producers in Sri Lanka
+      description: Collaborated with a Senior Data Scientist in the development of forecasting model
+      points:
+        - Assisted in developing a hybrid forecasting model leveraging ML algorithms and statistical models.
+        - Automated the manual effort of importing, cleaning, and preprocessing data, scheduled ML model autoruns.
+        - Used Tableau for presenting interesting insights to the stakeholders.
       used:
         - thing: Python
-        - thing: Cadence tool
-        - thing: Synopsis tool
-        - thing: Linux
+        - thing: Machine Learning
+        - thing: TimeSeries forecasting
 
-    - name: SoC Integration
-      url: https://www.qualcomm.com/
-      description: I am part of Integration team which involves integrating IP cores at SoC level.
-      points:
-        - Worked on connectivity of AHB, APB, AXI interfaces. 
-        - Understand about the basics of the SoC and NoC, with focus on architecture and importance of SoC.
-        - Worked on connectivity of major cores in SoC like CPU, and understood the function of various IPs, ports and their functions.
-      used:
-        - thing: Qualcomm Architecture
-        - thing: System Verilog
-- company: KNM TECH
-  url: https://itic.iith.ac.in/startups.html
-  time: Sep 2022 - Nov 2022
-  position: Analog design intern
-  description: An IIT Hyderabad incubated start-up based in IITH. Worked on a amplifier piezoelectric accelerometer.
+- company: HCI Lab, IIIT Allahabad
+  url: https://hci.iiita.ac.in/
+  time: May 2019 - Jul 2019
+  position: Research Intern
   projects:
-    - name: Amplifier for piezoelectric accelemeter
-      url: https://www.qualcomm.com/
-      description: Designed a amplifier for piezoelectric accelerometer with JFET, and FinFET. Worked on the PCB for the final amplifier circuit. 
+    - name: Early detection of Autism in toddlers
+      description: Assisted Prof. Anupam Agarwal in his reserach
       points:
-        - Designed real-time piezoelectric accelerometers with amplification at the output.
-        - Assembled a prototype PCB.
-        - Designed a 7mm dia PCB. 
+        - Performed Literature survey on early detection of Autism in toddlers. 
+        - Worked on Autism Detection application using Image Processing and Machine Learning techniques. 
+        - Worked on POCs on various new domains of machine learning like Transfer Learning.
       used:
-        - thing: JFET
-        - thing: FinFET
-        - thing: KiCAD
-        - thing: Linux
+        - thing: Python
+        - thing: Machine Learning
