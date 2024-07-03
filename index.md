@@ -1,12 +1,13 @@
 ## Projects
 
-[AWS Sagemaker - Fraud Detection (Github)](https://github.com/jithendray/aws-SageMaker-fraud-detection)
-The goal of this project is to underdstand the complete machine learning work flow 
-(from data collection, data storing, data preprocessing, model selection, training and finally to model deployement) 
-using AWS SageMaker. I built an end to end fraud detection service system using services provided by AWS.
-Trained machine learning job and deployed model using SageMaker, created endpoint that can be invoked by Lambda, 
-created API with API Gateway in order to send request to flask application.
-Deployed the application on AWS Cloud9 environment and finally integrated the application with SNS service to alert client by sending email when fraud is detected.
+FPGA Neural Network Accelerator
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tirumalnaidu/opencl-cnn-accelerator)
+
+We designed a Neural Network Accelerator for Darknet Reference Model (which is 2.9 times faster than AlexNet and attains the same top-1 and 
+top-5 performance as AlexNet but with 1/10th the parameters) for 
+image classification on Imagenet Dataset on Intel Cyclone V Soc FPGA, while working as a part-time undergrad researcher under 
+guidance of [Prof. Vinod Kumar Jain](https://sites.google.com/view/dr-vinod-kumar-jain/home?authuser=0). When connected to ARM Cortex A9 processor using OpenCL framework, 
+it achieved around 300% faster inference speed than CPU.
 <img src="images/fraud.png?raw=true"/>
 
 ---
