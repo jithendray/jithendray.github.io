@@ -1,13 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Jithendra Yenugula
+logo: "/images/logo.png?raw=true"
+description: > 
+  Hi, I'm Jithendra, a software engineer passionate about building scalable & efficient data systems. As a Data Engineer, I thrive in bridging the gap between software engineering and data analytics.
   <br><br>
-  Second description 
+ I have over 3 years of experience in implementing cloud-based ETL and data warehousing solutions, specializing in AWS cloud engineering and data analytics.
+ Currently, I work as a Data Engineer at NeenOpal Inc., leading AWS implementations and delivering tailored solutions for clients in sectors such as logistics, real estate, ed-tech, and NBFC.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  When I'm not working, I listen to heavy metal, write music reviews on [cursed collection](https://cursedcollection.github.io/), play with <a href="/images/judas.jpg">Judas, my cat</a>.
+  <br><br>
+  <a href="https://www.linkedin.com/in/jithendray/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: 
