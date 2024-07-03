@@ -1,6 +1,7 @@
 ## Projects
 
 FPGA Neural Network Accelerator
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tirumalnaidu/opencl-cnn-accelerator)
 
 We designed a Neural Network Accelerator for Darknet Reference Model (which is 2.9 times faster than AlexNet and attains the same top-1 and 
