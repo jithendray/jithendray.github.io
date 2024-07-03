@@ -1,11 +1,9 @@
 title: Jithendra Yenugula # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > 
-  Hi, I'm Jithendra, a software engineer passionate about building scalable & efficient data systems.
+  <a href="https://jithendray.github.io/">About</a>
   <br><br>
-  I have over 3 years of experience in implementing cloud-based ETL and data warehousing solutions, specializing in AWS cloud engineering and data analytics.
-  <br><br>
-  When I'm not working, I listen to heavy metal, write music reviews on <a href="https://cursedcollection.github.io/" target="_blank">cursed collection</a>, play with <a href="/images/judas.jpg">Judas, my cat</a>.
+  <a href="https://jithendray.github.io/sample_page">Sample</a>
   <br><br>
   <a href="https://www.linkedin.com/in/jithendray/">View My LinkedIn Profile</a> 
   
