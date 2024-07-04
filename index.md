@@ -6,7 +6,7 @@ I'm passionate about bridging the gap between software engineering and data anal
 
 In general, I believe in the famous Stoic reflection, "Memento Mori" (remember you must die). This encourages me to remember that tomorrow is not promised, live now, embrace the temporality of it all, and seize each moment with purpose and intention.
 
-Outside of work, I find great joy in listening to metal music, watching horror movies, reading philosophy, and plating with my cat - <a href="/images/judas-2.jpg">Judas</a>.
+Outside of work, I find great joy in listening to metal music, watching horror movies, reading philosophy, and plating with <a href="/images/judas-2.jpg">my cat - Judas</a>.
 
 Please say me hi if we're into some of the same things:
   - email: [jithendra.yenugula(at)gmail.com](mailto:jithendra.yenugula@gmail.com)
