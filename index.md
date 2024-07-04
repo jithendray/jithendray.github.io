@@ -1,8 +1,9 @@
 ## About
 
-Hi, I'm Jithendra, a software engineer passionate about building scalable & efficient data systems.
+Hi, I'm Jithendra. I work as a Data Engineer at [NeenOpal Inc.](https://www.neenopal.com/) where I implement cloud-based ETL and data warehousing solutions for a global clientele. I've successfully delivered end-to-end projects across diverse industries—including logistics, ed-tech, and finance — delivering scalable and efficient data pipelines and architectures.
 
-I have over 3 years of experience in implementing cloud-based ETL and data warehousing solutions, specializing in AWS cloud engineering and data analytics.
+I'm passionate about bridging the gap between software engineering and data analytics. The fusion of these fields excites me as it enables me to build robust, scalable systems that handle vast amounts of data with efficiency and precision. I believe this approach unlocks the hidden potential within data, empowering organizations to make informed, data-driven decisions.
 
-When I'm not working, I listen to heavy metal, write music reviews on [cursed collection](https://cursedcollection.github.io), play with <a href="/images/judas.jpg">Judas, my cat</a>.
-.
+In general, I believe in the famous Stoic reflection, "Memento Mori" (remember you must die). This encourages me to remember that tomorrow is not promised, live now, embrace the temporality of it all, and seize each moment with purpose and intention.
+
+Outside of work, I find great joy in listening to metal music, watching horror movies, reading philosophy, and plating with my cat - <a href="/images/judas-2.jpg">Judas</a>.
