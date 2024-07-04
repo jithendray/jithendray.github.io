@@ -46,7 +46,7 @@
 
 ### Data Scientist Intern, NeenOpal Inc., Nov 2020 - May 2021
 
-- Sales and Invventory Forecasting for one of the largest Tiles producers in Sri Lanka
+- Sales and Inventory Forecasting for one of the largest Tiles producers in Sri Lanka
     - Assisted a Senior Data Scientist in developing a hybrid forecasting model leveraging ML algorithms and statistical models
     - Automated the manual effort of importing, cleaning, and preprocessing data, scheduled ML model autoruns
     - Used Tableau for presenting interesting insights to the stakeholders
