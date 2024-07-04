@@ -9,7 +9,7 @@ In general, I believe in the famous Stoic reflection, "Memento Mori" (remember y
 Outside of work, I find great joy in listening to metal music, watching horror movies, reading philosophy, and plating with my cat - <a href="/images/judas-2.jpg">Judas</a>.
 
 Please say me hi if we're into some of the same things:
-  - email: jithendra.yenugula(at)gmail.com
+  - email: [jithendra.yenugula(at)gmail.com](mailto:jithendra.yenugula@gmail.com)
   - linkedin: [jithendray](https://www.linkedin.com/in/jithendray/)
   - github: [jithendray](https://github.com/jithendray)
   - twitter: [doomedripper](https://x.com/doomedripper)
