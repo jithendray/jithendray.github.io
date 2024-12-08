@@ -1,3 +1,3 @@
-Hello, I'm a software engineer with a relentless curiosity for all things cloud and data.
+Hello, I'm a generalist with interests in cloud, data and software engineering.
 
-In this corner of the internet, I occasionally write down my musings on topics that spark my interest—be it tech, data, or even [music](https://cursedcollection.github.io/). Want to dive deeper into my story? Check out [about me](https://jithendray.github.io/about.html) or explore what’s keeping me busy [these days](https://jithendray.github.io/now.html). 🚀
+In this corner of the internet, I occasionally write down my musings on topics that spark my interest—be it tech, data, or even music. Want to dive deeper into my story? Check out [about me](https://jithendray.github.io/about.html), [cursed collection](https://cursedcollection.github.io/) or explore what’s keeping me busy [these days](https://jithendray.github.io/now.html). 🚀
