@@ -1,3 +1,3 @@
-Hello, I'm a software engineer a software engineer with a relentless curiosity for all things cloud and data.
+Hello, I'm a software engineer with a relentless curiosity for all things cloud and data.
 
-In this dark corner of the internet, I occasionally write down my musings on topics that spark my interest—be it tech, data, or even music. Want to dive deeper into my story? Check out [about me](https://jithendray.github.io/about.html), [my side/poc projects](https://jithendray.github.io/projects.html), [my work experience](https://jithendray.github.io/experience.html) or explore what’s keeping me busy [these days](https://jithendray.github.io/now.html). 🚀
+In this corner of the internet, I occasionally write down my musings on topics that spark my interest—be it tech, data, or even music. Want to dive deeper into my story? Check out [about me](https://jithendray.github.io/about.html) or explore what’s keeping me busy [these days](https://jithendray.github.io/now.html). 🚀

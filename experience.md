@@ -1,7 +1,4 @@
----
-layout: post
-title: Experience
----
+## Experience
 
 ### Senior Data Engineer, NeenOpal Inc., Apr 2023 -- Present
 

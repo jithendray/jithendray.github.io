@@ -1,5 +1,7 @@
+## Now
+
 🌍 Current Location
-Bengaluru, Karnataka, India
+- Bengaluru, Karnataka, India
 
 🖥️ Working
 - Data Engineer at [NeenOpal Inc.](https://www.neenopal.com/)
