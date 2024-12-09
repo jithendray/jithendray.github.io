@@ -9,7 +9,7 @@ Currently, I work as a **Data Engineer** at [NeenOpal Inc.](https://www.neenopal
 
 As a programmer, I code mostly in Python. I’m an AWS Certified Associate Solutions Architect and Microsoft Certified Azure Data Engineer.
 
-Want to hire me? Check my [experience](https://jithendray.github.io/experience) and [projects](https://jithendray.github.io/projects).
+Want to hire me? Check my [experience](https://jithendray.github.io/experience.html) and [projects](https://jithendray.github.io/projects.html).
 
 Please say me hi if we're into some of the same things:
   - email: [jithendra.yenugula(at)gmail.com](mailto:jithendra.yenugula@gmail.com)
