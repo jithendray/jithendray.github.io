@@ -11,7 +11,7 @@ Choosing a desktop environment is more than just aesthetics; it’s about crafti
 
 ### I love KDE
 
-![]({{ site.baseurl }}/images/posts/2024-10-13/kde.png "kde")
+<img src="{{ site.baseurl }}/images/posts/2024-10-13/kde.png" alt="kde" width="250" height="250" />
 
 When I first installed EndeavourOS, KDE was the obvious choice. I fell in love with KDE when I was using Kubuntu. Its clean interface, combined with an outstanding set of built-in tools and customization choices, felt ideal for a decent Linux user. KDE Plasma's widgets, desktop effects, and configuration choices offered me a sense of control over my environment that I had never felt before.
 
@@ -37,7 +37,7 @@ Next, I tried **XFCE**, which is a lightweight and extremely customisable enviro
 
 Then I decided to revisit **GNOME**, and everything changed. When I last used GNOME with Ubuntu a few years ago, it felt inflexible, resource-intensive, and less intuitive than alternative desktop environments. But this time, I was pleasantly surprised at how far GNOME has progressed. The most recent releases included a cleaner, more polished interface, smoother animations, and a streamlined process that was far more efficient than I remembered.
 
-![]({{ site.baseurl }}/images/posts/2024-10-13/gnome.png "gnome")
+<img src="{{ site.baseurl }}/images/posts/2024-10-13/gnome.png" alt="gnome" width="250" height="250" />
 
 GNOME’s minimalist design philosophy gave me the simplicity I was seeking without sacrificing usability. It emphasized productivity through workspace management, keyboard shortcuts, and distraction-free design. The lack of numerous customization options, which KDE focuses on, turned out to be a positive for me - it allowed me to focus on getting things done rather than constantly tweaking settings.
 
