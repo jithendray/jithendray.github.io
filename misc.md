@@ -8,6 +8,7 @@ Here are just some miscellaneous links.
 ### me
 - [Experience](https://jithendray.github.io/experience.html) across different roles in my career
 - [Projects](https://jithendray.github.io/projects.html) developed for proof-of-concept and fun
+- [Now](https://jithendray.github.io/now.html) - what's keeping me busy these days!
 - My personal [Digital Garden](https://jithendray.github.io/notes/) - Synced seamlessly with my Obsidian
 - [Cursed Collection](https://cursedcollection.github.io/) - where I write about my favorite music
 - [GitHub](https://github.com/jithendray) - where I store all my work in general
