@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jithendra Yenugula
+name: Jithendra's Blog
 
 # Short bio or description (displayed in the header)
 description: cloud, software and data engineering
@@ -20,17 +20,17 @@ description: cloud, software and data engineering
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 标签
+  - name: Tags
     url: /tags.html
-  - name: 分类
-    url: /categories.html
-  - name: 项目
+  # - name: 分类
+  #   url: /categories.html
+  - name: Notes
+    url: https://jithendray.github.io/notes/
+  - name: Projects
     url: /project.html
-  - name: RSS
-    url: /atom.xml
-  - name: 关于
+  - name: About
     url: /about.html
 
 # Pagination
@@ -40,19 +40,19 @@ paginate: 15
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: terminus2049@protonmail.com
+  email: jithendra.yenugula@gmail.com
   facebook:
   flickr:
   github: jithendray
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin:
-  telegram: terminus_9402
+  linkedin: jithendray
+  telegram:
   pinterest:
   rss: atom.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: 2049bbs
+  twitter: doomedripper
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
