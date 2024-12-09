@@ -11,9 +11,10 @@ Choosing a desktop environment is more than just aesthetics; it’s about crafti
 
 ### I love KDE
 
+When I first installed EndeavourOS, KDE was the obvious choice. I fell in love with KDE when I was using Kubuntu. Its clean interface, combined with an outstanding set of built-in tools and customization choices, felt ideal for a decent Linux user. KDE Plasma's widgets, desktop effects, and configuration choices offered me a sense of control over my environment that I had never felt before.
+
 <img src="{{ site.baseurl }}/images/posts/2024-10-13/kde.png" alt="kde" width="150" height="150" />
 
-When I first installed EndeavourOS, KDE was the obvious choice. I fell in love with KDE when I was using Kubuntu. Its clean interface, combined with an outstanding set of built-in tools and customization choices, felt ideal for a decent Linux user. KDE Plasma's widgets, desktop effects, and configuration choices offered me a sense of control over my environment that I had never felt before.
 
 KDE's ecosystem is incredibly feature-rich. The Plasma desktop offers more customisation than most other DEs. From desktop widgets to custom window rules, keyboard shortcuts, and visual themes, KDE provides an environment that can be properly tailored to the user's vision. It even includes powerful built-in applications such as Dolphin (file manager) and Konsole (terminal emulator).
 
