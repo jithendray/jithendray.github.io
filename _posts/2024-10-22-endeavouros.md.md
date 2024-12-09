@@ -4,6 +4,8 @@ title: EndeavourOS is amazing!
 description: I've been using EndeavourOS as my daily driver for about a year now, and I absolutely love it. I want to write about how I found EndeavourOS, why I decided to move to it, and what’s keeping me here for so long. Let's dive deep?
 tags:
   - linux
+  - arch
+  - endeavouros
 ---
 I'm a total distro hopper and have this funny goal of trying out every Linux distro out there (well, at least as many as I can!). Over the last six years, I’ve used a bunch of them—started with Ubuntu (obviously), then went through Linux Mint, Lubuntu, Kubuntu, Pop!OS, Manjaro, and now I’m on EndeavourOS.
 
@@ -23,8 +25,6 @@ I'm not against ubuntu or debian-based distros. They’re solid and reliable. Bu
 
 And that’s Arch!
 
-![]({{ site.baseurl }}/images/posts/2024-10-22/arch.jpg "arch")
-
 ### Why I installed Manjaro over Arch
 
 Back then, I wasn’t really in the mood to go through Arch’s manual installation process. I wanted something fast and was too excited to try a new distro, even though I know it would have been enjoyable. While hunting for the perfect distro, I came across this badass [MANJARO](https://manjaro.org/).
@@ -36,9 +36,13 @@ Manjaro is based on Arch but offers a lot more smoother onboarding process, part
 
 ### Falling in LOVE with ARCH
 
-I simply fell in love with Arch when I was using Manjaro. I was able to configure my system and fine-tune every single aspect of my environment. I always had access to the most recent software versions because Arch and Arch-based distributions release updates very often, in contrast to Debian's stable release model. Of course, the trade-off is that some software might occasionally break since Arch gets updates before they’re fully tested—but, that’s part of the thrill for me LOL!
+I simply fell in love with Arch when I was using Manjaro. I was able to configure my system and fine-tune every single aspect of my environment. 
+
+I always had access to the most recent software versions because Arch and Arch-based distributions release updates very often, in contrast to Debian's stable release model. Of course, the trade-off is that some software might occasionally break since Arch gets updates before they’re fully tested—but, that’s part of the thrill for me LOL!
 
 Arch's documentation is what really makes it unique. With organized instructions for installation, troubleshooting, and everything in between, the [Arch Wiki](https://wiki.archlinux.org/) is far superior to the documentation for other distributions.
+
+![]({{ site.baseurl }}/images/posts/2024-10-22/arch.jpg "arch")
 
 And then there’s [pacman](https://wiki.archlinux.org/title/Pacman), Arch’s package manager. After using pacman, I can’t imagine going back to Debian’s apt or even yum. They’re painfully slow compared to pacman—I mean, it took apt 15 minutes to install Waterfox on my laptop, while pacman installed it in just 1 minute on the same machine!
 
@@ -91,11 +95,13 @@ Finally, EndeavourOS feels like the sweet spot. It’s like Manjaro but without 
 
 ### Who should use EndeavourOS?
 
-EndeavourOS is a wonderful choice for anyone who want to learn more about GNU/Linux. It follows the Arch philosophy, sproviding a clean installation procedure and an easy-to-use system while allowing for more customization. The community is smaller, but it is quite active and helpful, and a lot of the support is user-centric, so one’ll be engaging with the Arch way of doing things. This distribution is for those who are eager to learn, keep their systems up to date, and occasionally do manual interventions. 
+EndeavourOS is a wonderful choice for anyone who want to learn more about GNU/Linux. It follows the Arch philosophy, sproviding a clean installation procedure and an easy-to-use system while allowing for more customization. 
+
+The community is smaller, but it is quite active and helpful, and a lot of the support is user-centric, so one’ll be engaging with the Arch way of doing things. This distribution is for those who are eager to learn, keep their systems up to date, and occasionally do manual interventions. 
 
 If you’re considering EndeavourOS or any Arch-based distro like Manjaro, you'll need to commit yourself to continuously  monitoring forums, troubleshooting on your own, and being comfortable chatting with random people for advice and fixes.
 
-One important thing to remember is that Linux is different from Windows. Distros such as Linux Mint or Ubuntu make things extremely simple, which is fantastic for beginners but leads to some users viewing Linux solely as a replacement for Windows. If you have that mindset, you’ll probably struggle with Arch or Arch-based distros like EndeavourOS. To enjoy these distros, you need to approach Linux with a more open and leaner mindset.
+One important thing to remember is that **Linux is different from Windows**. Distros such as Linux Mint or Ubuntu make things extremely simple, which is fantastic for beginners but leads to some users viewing Linux solely as a replacement for Windows. If you have that mindset, you’ll probably struggle with Arch or Arch-based distros like EndeavourOS. To enjoy these distros, you need to approach Linux with a more open and leaner mindset.
 
 ![]({{ site.baseurl }}/images/posts/2024-10-22/lvswvsm.jpg "linux-vs-windows-vs-mac")
 
