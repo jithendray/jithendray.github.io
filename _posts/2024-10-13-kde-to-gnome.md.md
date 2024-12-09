@@ -26,12 +26,11 @@ As I spent more time with KDE, I noticed a few issues. At times, the vast quanti
 
 This curiosity prompted me to investigate different desktop environments. My initial experiment involved **i3wm**, a tiling window manager. It was a complete shift from KDE's visually appealing interface to a minimalist, keyboard-driven experience. i3wm taught me the importance of efficiency and simplicity, but its steep learning curve made it difficult to use on a daily basis, particularly for tasks that required a mouse-friendly configuration.
 
-![]({{ site.baseurl }}/images/posts/2024-10-13/i3wm.webp "i3wm")
+<img src="{{ site.baseurl }}/images/posts/2024-10-13/i3wm.webp" alt="i3wm" width="400" height="200" />
+
 
 
 Next, I tried **XFCE**, which is a lightweight and extremely customisable environment. XFCE achieved a mix of minimalism and usability. Its minimal resource use made my system feel more responsive, but I couldn't help but miss some of the modern design aspects.
-
-![]({{ site.baseurl }}/images/posts/2024-10-13/xfce.webp "xfce")
 
 
 Then I decided to revisit **GNOME**, and everything changed. When I last used GNOME with Ubuntu a few years ago, it felt inflexible, resource-intensive, and less intuitive than alternative desktop environments. But this time, I was pleasantly surprised at how far GNOME has progressed. The most recent releases included a cleaner, more polished interface, smoother animations, and a streamlined process that was far more efficient than I remembered.
