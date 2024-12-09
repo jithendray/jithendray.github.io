@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-22-endeavouros.md.md",
+                "file": "_posts/2024-09-22-endeavouros.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-22-endeavouros.md"
+              "title": "2024-09-22-endeavouros.md"
+            }
+          },
+          {
+            "id": "86a9a3fc2d1e1290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-10-13-kde-to-gnome.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-13-kde-to-gnome.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,26 +177,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a117eb1d84f2a14",
+  "active": "86a9a3fc2d1e1290",
   "lastOpenFiles": [
-    "images/posts/2024-10-22/lvswvsm.jpg",
-    "images/posts/2024-10-22/usearch.jpg",
-    "Screenshot From 2024-12-10 02-40-57.png",
-    "_posts/2024-10-22-endeavouros.md.md",
-    "images/posts/2024-10-22/endwal3.webp",
-    "images/posts/2024-10-22/endwal1.png",
-    "images/posts/2024-10-22/endwal2.jpeg",
-    "images/posts/2024-10-22/Screenshot From 2024-12-10 02-40-57.png",
-    "images/posts/2024-10-22/endwal3.png",
-    "images/posts/2024-10-22/endwal2.png",
-    "images/posts/2024-10-22/Endy_vector_satelliet.png",
-    "images/posts/2024-10-22/endwal1.jpeg",
-    "_posts/2023-01-16-redshift-conditional-looping.md",
     "{{.md",
+    "_posts/2024-10-13-kde-to-gnome.md.md",
+    "images/posts/2024-10-13/gnome.png",
+    "images/posts/2024-10-13/gnome.jpg",
+    "images/posts/2024-10-13/xfce.webp",
+    "images/posts/2024-10-13/i3wm.webp",
+    "images/posts/2024-10-13/kdevgnome.png",
+    "images/posts/2024-10-13/kde-cust.webp",
+    "images/posts/2024-10-13/kdevplasma.png",
+    "images/posts/2024-10-13/kdevsgnome.jpg",
+    "_posts/2024-09-22-endeavouros.md.md",
+    "images/posts/2024-10-13/kde.png",
+    "images/posts/2024-10-13",
+    "_posts/2023-01-16-redshift-conditional-looping.md",
+    "images/posts/2024-09-22/usearch.jpg",
+    "images/posts/2024-09-22",
     "_posts/2020-11-11-ts-arima.md",
     "images/posts/2024-10-22",
     "images/posts/2024-10-222",
-    "Untitled.md",
     "_posts/2020-05-01-upgrading-ubuntu.md"
   ]
 }
