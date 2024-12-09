@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Generative Adversarial Networks"
 description: "So what are Generative Adversarial Networks? What is so magical about them? In this blog post we’ll explore GANs and detailed explanation of how GANs work. But before diving into GANs, we will start by describing what are Generative models."
 mathjax: true
-tags: [machinelearning, notes]
+tags: [machine-learning, notes]
 ---
 
  Generative Adversarial Networks are exactly the same thrilling thing. They create some new data out of nothing, following the rules 
