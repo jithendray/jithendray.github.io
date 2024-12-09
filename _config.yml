@@ -28,6 +28,8 @@ navigation:
     url: /experience.html
   - name: Archive
     url: /tags.html
+  - name: Misc
+    url: /misc.html
   
   # - name: Notes
   #   url: https://jithendray.github.io/notes/
