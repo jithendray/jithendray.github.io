@@ -20,12 +20,14 @@ description: cloud, software and data engineering
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: About
+  - name: about
     url: /about.html
-  - name: Archive
+  - name: archive
     url: /tags.html
-  - name: Misc
+  - name: misc
     url: /misc.html
+  - name: now
+    url: /now.html
   
   # - name: Notes
   #   url: https://jithendray.github.io/notes/
