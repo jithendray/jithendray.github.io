@@ -20,14 +20,17 @@ description: cloud, software and data engineering
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Tags
-    url: /tags.html
-  - name: Projects
-    url: /projects.html
+  # - name: Tags
+  #   url: /tags.html
   - name: About
     url: /about.html
-  - name: Notes
-    url: https://jithendray.github.io/notes/
+  - name: Experiece
+    url: /experience.html
+  - name: Projects
+    url: /projects.html
+
+  # - name: Notes
+  #   url: https://jithendray.github.io/notes/
 
 # Pagination
 paginate: 15
