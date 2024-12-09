@@ -9,7 +9,6 @@ title: Experience
 - ETL and BI Implementation for a US-based Employee Educational Benefits Firm (Financial Sector)
     - Led data engineering initiatives, overseeing the entire project lifecycle
     - Engineered a highly efficient ETL solution by constructing a data lake on Amazon S3. Migrated and integrated data from MongoDB, MySQL, and PostgreSQL for advanced analytics using AWS Glue and Spark
-    - Architected and deployed a robust CI/CD pipeline from scratch, leveraging AWS CodeCommit, CodePipeline, and CodeBuild to ensure seamless integration and continuous delivery
 
 
 ---

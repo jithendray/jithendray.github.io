@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jithendra's Blog
+name: Jithendra Yenugula
 
 # Short bio or description (displayed in the header)
 description: cloud, software and data engineering
@@ -20,15 +20,15 @@ description: cloud, software and data engineering
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  # - name: Tags
-  #   url: /tags.html
   - name: About
     url: /about.html
-  - name: Experiece
-    url: /experience.html
   - name: Projects
     url: /projects.html
-
+  - name: Experiece
+    url: /experience.html
+  - name: Archive
+    url: /tags.html
+  
   # - name: Notes
   #   url: https://jithendray.github.io/notes/
 
