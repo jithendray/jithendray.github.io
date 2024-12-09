@@ -25,9 +25,9 @@ navigation:
   - name: Tags
     url: /tags.html
   - name: Projects
-    url: /project.html
+    url: /projects.md
   - name: About
-    url: /about.html
+    url: /about.md
   - name: Notes
     url: https://jithendray.github.io/notes/
 
