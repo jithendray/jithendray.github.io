@@ -22,10 +22,6 @@ description: cloud, software and data engineering
 navigation:
   - name: About
     url: /about.html
-  - name: Projects
-    url: /projects.html
-  - name: Experiece
-    url: /experience.html
   - name: Archive
     url: /tags.html
   - name: Misc
