@@ -1,7 +1,7 @@
 ---
 layout: post
-title: EndeavourOS
-description: I've been using EndeavourOS as my daily driver for about a year now, and I absolutely love it. Effortless installation process is effortless, and great community support. Let's dive deep?
+title: EndeavourOS is amazing!
+description: I've been using EndeavourOS as my daily driver for about a year now, and I absolutely love it. I want to write about how I found EndeavourOS, why I decided to move to it, and what’s keeping me here for so long. Let's dive deep?
 tags:
   - linux
 ---
