@@ -37,6 +37,7 @@ Here are just some miscellaneous links.
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com/) : data engineering newsletter by Ananth Packkildurai
 - [The Data Governance Playbook](https://charlotteledoux.substack.com/) : best tips on data governance
 - [DataEngineer.io Newsletter \| Zach Wilson \| Substack](https://blog.dataengineer.io/) : a data engineering news letter by Zach Wilson
+- [Dedoimedo](https://www.dedoimedo.com/index.html) : a place to read about so many things
 - [Joe Reis](https://joereis.substack.com/) : a news letter by the author of "fundamentals of data engineering"
 
 ### Favourite Podcasts
