@@ -19,7 +19,7 @@ KDE's ecosystem is incredibly feature-rich. The Plasma desktop offers more custo
 
 ### Why switch?
 
-<img src="{{ site.baseurl }}/images/posts/2024-10-13/kde-cust.webp" alt="kde-feature-overload" width="300" height="350" />
+<img src="{{ site.baseurl }}/images/posts/2024-10-13/kde-cust.webp" alt="kde-feature-overload" width="300" height="290" />
 
 
 As I spent more time with KDE, I noticed a few issues. At times, the vast quantity of features felt overwhelming. I found myself wondering if there was something simpler and lighter that could better meet my changing demands.
