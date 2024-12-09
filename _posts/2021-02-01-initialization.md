@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weight Initialization"
-description: "My notes on initializing weights"
+description: "My notes on initializing weights. This is post for my future self to look back and review the material. So, this’ll be very unpolished!"
 tags: [notes, deeplearning, machinelearning]
 mathjax: true
 ---

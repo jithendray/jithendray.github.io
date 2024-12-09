@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Upgrading Ubuntu to 20.04 LTS"
+description: "This is only when you are already running some ubuntu version and want to upgrade it to the new version. This is not the process for fresh installation of Ubuntu."
 tags: [linux]
 ---
 
@@ -33,15 +34,19 @@ Alright, here are the steps I followed to upgrade -
 
 ### Step 1: Open the terminal and type the following commands
 
-`jithendra@hp:~$ cd /etc/apt`
-`jithendra@hp:/etc/apt$ ls`
+```bash
+jithendra@hp:~$ cd /etc/apt
+jithendra@hp:/etc/apt$ ls
+```
 
 The sources.list file tells ubuntu to what repositories to check in addition to any files in sources.list.d that end in the former one. 
 In order to manually update, both of these should be updated. I started with sources.list
 
 ### Step 2: Update 'sources.list'
 
-`jithendra@hp:/etc/apt$ sudo gedit sources.list`
+```bash
+jithendra@hp:/etc/apt$ sudo gedit sources.list
+```
 
 ### Step 3: On active lines, replace the codename of previous Ubuntu version with codename of Ubuntu 20.04
 
@@ -58,15 +63,19 @@ After updating sources.list file, I went back and check sources.list.d to see an
 For example, google-chrome, spotify, and ppa's that I might have installed. But, I dont want any third party applications and ppa's in the new version.
 So I simply removed all the existing ppas from source.list.d using this command 
 
-`sudo rm /etc/apt/sources.list.d/*`
+```bash
+sudo rm /etc/apt/sources.list.d/*
+```
 
 But, If you want your ppa's and apps do the following
 
 ### Step 4: Come back and verify 'sources.list.d'
 
-`jithendra@hp:/etc/apt$ cd sources.list.d/`
+```bash
+jithendra@hp:/etc/apt$ cd sources.list.d/
 
-`jithendra@hp:/etc/apt/sources.list.d$ ls`
+jithendra@hp:/etc/apt/sources.list.d$ ls
+```
 
 * This outputs files like google-chrome.list, spotify.list, or ppa's.
 * Third party apps dont use any codename in their repository. But this is not case for all third party repositories
@@ -77,20 +86,26 @@ in updating these codenames. Even some apps use xenial in codenames which need n
 
 ### Step 5: Update and Upgrade
 
-`jithendra@hp:/etc/apt/sources.list.d$ cd`
+```bash
+jithendra@hp:/etc/apt/sources.list.d$ cd
 
-`jithendra@hp:~$ sudo apt update`
+jithendra@hp:~$ sudo apt update
+```
 
 * I got a whole lot of stuff and all the gits of the updates are pointed out to focal. 
 * This is just telling apt manually to look into focal and not into eano.(in my case)
 * In my case, I got like this 1873 packages can be upgraded. Run 'apt list --upgradable' to see them.`
 * This means 1873 packages are upgradable which are new.
 
-`jithendra@hp:~$ sudo apt dist-upgrade`
+```bash
+jithendra@hp:~$ sudo apt dist-upgrade
+```
 
 or
 
-`jithendra@hp:~$ sudo apt full-upgrade`
+```bash
+jithendra@hp:~$ sudo apt full-upgrade
+```
 
 * There will be four kinds of packages in here
     * The following packages were automatically installed and are no longer required (Use 'sudo apt autoremove' to remove them)
@@ -107,7 +122,9 @@ or user currently installed version - select package manager's version - select 
 
 ### Step 6: Remove the older clutter
 
-`jithendra@hp:~$ sudo apt autoremove --purge`
+```bash
+jithendra@hp:~$ sudo apt autoremove --purge
+```
 
 * purge removes configuration files too
 
@@ -117,9 +134,12 @@ or user currently installed version - select package manager's version - select 
 * Because the new versions are on the harddrive. 
 * To load all of that - 
 
-`jithendra@hp:~$ sudo systemctl reboot`
+```bash
+jithendra@hp:~$ sudo systemctl reboot
+```
 
 
 Without any errors, My laptop was succesfully upgraded to Ubuntu 20.04 LTS. 
+
 --- 
 Thank you for reading.Hope you find this post helpful.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Root Access in Ubuntu"
-description: "My notes on gaining root privileges in Ubuntu"
+description: "My notes on gaining root privileges in Ubuntu. Note: This is post for my future self to look back and review the material. So, this’ll be very unpolished!"
 tags: [linux, notes]
 ---
 
