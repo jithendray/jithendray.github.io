@@ -65,7 +65,7 @@ GOSS is a sampling method which down samples the instances on basis of gradients
 
 GOSS in LGBM sets a sampling ratio **a** to select the ones with large gradients and randomly drop the ones with small gradients from the rest **1-a**, by using a ratio **b**. To compensate for the data loss, LGBM amplifies the small gradient samples when calculating the information gain by multiplying it with the constant $(1-a)/b$.
 
-![]({{ site.baseurl }}/images/posts/2021-10-31/GOSS.png)
+![](/images/posts/2021-10-31/GOSS.png)
 
 ### EFB - Exclusive Feature Bundling
 
@@ -83,14 +83,14 @@ Regarding the first point, this problem can be treated as an equivalent to graph
 2. Sort features in descending order
 3. Check each feature in the sorted list and if conflict < threshold, add it to an existing bundle or else crate a new bundle.
 
-![]({{ site.baseurl }}/images/posts/2021-10-31/EFB1.png)
+![](/images/posts/2021-10-31/EFB1.png)
 
 
 Secondly, for bundling the features - Since the range of features in each bundle is different, we need to rebuild the range of bundle feature after merging. In the first for loop, we record the accumulated totalRange of each feature and the previous features. In the second for loop, a new bin value (F[j]bin[i] + binRanges[j]) is recalculated based on the previous binRanges to ensure that the values ​​between features will not conflict. This is optimized for sparse matrices. Since the previous Greedy Bundling algorithm performs conflict checking on features to ensure that there are as few feature conflicts in the bundle as possible, there will not be too many conflicts between non-zero elements between features.
 
 Now the shape becomes [len(data) * no.of_bundles], where no.of_bundles << no.of_features.
 
-![]({{ site.baseurl }}/images/posts/2021-10-31/EFB2.png)
+![](/images/posts/2021-10-31/EFB2.png)
 
 
 ### Tree Growth (Leaf-wise)

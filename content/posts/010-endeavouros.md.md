@@ -17,7 +17,7 @@ I've been using EndeavourOS exclusively for the past year, and I must admit that
 
 Ubuntu is where almost everyone, including myself, begins their Linux adventure. Why not? It is user-friendly, incredibly simple to install, stable, and free of unexpected malfunctions. Plus, almost every software on these distros works perfectly and rarely breaks.
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/debian-ubuntu.jpg "debian-ubuntu")
+![](/images/posts/2024-09-22/debian-ubuntu.jpg "debian-ubuntu")
 
 So, why did I switch?
 
@@ -31,7 +31,7 @@ And that’s Arch!
 
 Back then, I wasn’t really in the mood to go through Arch’s manual installation process. I wanted something fast and was too excited to try a new distro, even though I know it would have been enjoyable. While hunting for the perfect distro, I came across this badass [MANJARO](https://manjaro.org/).
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/manjaro.png "manjaro")
+![](/images/posts/2024-09-22/manjaro.png "manjaro")
 
 
 Manjaro is based on Arch but offers a lot more smoother onboarding process, particularly for beginners like myself (back then). It kept all the core strengths of Arch while making things simpler and more beginner-friendly. The installation process was super straightforward - compared to Arch’s more technical and time-consuming setup (or at least that’s what I had heard back then).
@@ -44,7 +44,7 @@ I always had access to the most recent software versions because Arch and Arch-b
 
 Arch's documentation is what really makes it unique. With organized instructions for installation, troubleshooting, and everything in between, the [Arch Wiki](https://wiki.archlinux.org/) is far superior to the documentation for other distributions.
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/arch.jpg "arch")
+![](/images/posts/2024-09-22/arch.jpg "arch")
 
 And then there’s [pacman](https://wiki.archlinux.org/title/Pacman), Arch’s package manager. After using pacman, I can’t imagine going back to Debian’s apt or even yum. They’re painfully slow compared to pacman—I mean, it took apt 15 minutes to install Waterfox on my laptop, while pacman installed it in just 1 minute on the same machine!
 
@@ -64,7 +64,7 @@ EndeavourOS is another Arch-based distribution, and its primary goal is to stay 
 
 EndeavourOS is essentially bare-bones Arch, giving users the freedom to choose their preferred desktop environment. It doesn’t come preloaded with the fine-tuned tweaks and additional tools that Manjaro offers, which worked great for me and it let me experiment with different desktop environments like i3wm, XFCE, KDE, and GNOME.
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/endeavouros.png "endeavouros")
+![](/images/posts/2024-09-22/endeavouros.png "endeavouros")
 
 
 On my 7-year-old laptop, EndeavourOS felt significantly faster and had greater system performance than Manjaro. On my 7-year-old laptop, EndeavourOS felt significantly faster and had greater system performance than Manjaro. EndeavourOS provides a more cutting-edge experience and releases packages far more quickly than Manjaro.
@@ -81,11 +81,11 @@ EndeavourOS is a user-friendly Arch-based distro with zero bloat, and that’s w
 
 Another highlight? The amazing default and community-contributed wallpapers. Small detail, but they add so much personality to the distro!
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/endwal1.png "end-wal-1")
+![](/images/posts/2024-09-22/endwal1.png "end-wal-1")
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/endwal2.jpeg "end-wal-2")
+![](/images/posts/2024-09-22/endwal2.jpeg "end-wal-2")
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/endwal3.webp "end-wal-3")
+![](/images/posts/2024-09-22/endwal3.webp "end-wal-3")
 
 Currently, I am using both KDE and Debian and I love how easily I can switch desktop environments right from the lock screen.
 
@@ -93,7 +93,7 @@ And package managers—Manjaro’s Pamac just felt useless on EOS. Instead, Ende
 
 Finally, EndeavourOS feels like the sweet spot. It’s like Manjaro but without the unnecessary security layers and broken AUR dependencies. It’s like Arch, but I don’t have to bury myself in the wiki for hours (unless I want to). And the best part? I can still proudly say, “**I use ARCH, btw!**” 😎
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/usearch.jpg "btw-i-use-arch")
+![](/images/posts/2024-09-22/usearch.jpg "btw-i-use-arch")
 
 ### Who should use EndeavourOS?
 
@@ -105,7 +105,7 @@ If you’re considering EndeavourOS or any Arch-based distro like Manjaro, you'l
 
 One important thing to remember is that **Linux is different from Windows**. Distros such as Linux Mint or Ubuntu make things extremely simple, which is fantastic for beginners but leads to some users viewing Linux solely as a replacement for Windows. If you have that mindset, you’ll probably struggle with Arch or Arch-based distros like EndeavourOS. To enjoy these distros, you need to approach Linux with a more open and leaner mindset.
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/lvswvsm.jpg "linux-vs-windows-vs-mac")
+![](/images/posts/2024-09-22/lvswvsm.jpg "linux-vs-windows-vs-mac")
 
 
  

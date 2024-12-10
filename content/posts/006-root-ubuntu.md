@@ -29,7 +29,7 @@ The `su` command prompts the current user to enter the root account's password b
 
 When you are running `su` to gain root access on a system, you must know the root password. Without knowing the root account password, yout authentication will fail.
 
-![]({{ site.baseurl }}/images/posts/2021-10-17/su.png)
+![](/images/posts/2021-10-17/su.png)
 
 ## "sudo su" command
 
@@ -41,7 +41,7 @@ Then I came to know that, on some Linux distributions like Ubuntu, the root acco
 
 If the user is granted with `sudo` assess, the `su` command is called as root. Running `sudo su` and then typing the user password is completely same as running `su` and typing the root password.Any command that is prefixed with `sudo`  is given root privileges.
 
-![]({{ site.baseurl }}/images/posts/2021-10-17/sudosu.png)
+![](/images/posts/2021-10-17/sudosu.png)
 
 
 ## "sudo -i" command
@@ -49,7 +49,7 @@ The `sudo -i` command is similar to `sudo su` command and allows a user to acces
 
 The only difference is that - when swapping to the root environment with `sudo su`,  it is challenging to figure out what environmental variables will be kept and which ones will be changed. Whereas, `sudo -i` gains root privileges without directly interacting with the root user.
 
-![]({{ site.baseurl }}/images/posts/2021-10-17/sudoi.png)
+![](/images/posts/2021-10-17/sudoi.png)
 
 ## "sudo -s" command
 
@@ -57,7 +57,7 @@ When swapping to the root environment with `sudo su` and `sudo -i`, the system s
 
 When a user runs `sudo -s`, the user gains root privileges but the user environment will not be changed. The user's home will not be root home or root environment.
 
-![]({{ site.baseurl }}/images/posts/2021-10-17/sudos.png)
+![](/images/posts/2021-10-17/sudos.png)
 
 
 ## Conclusion

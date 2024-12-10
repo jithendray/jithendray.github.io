@@ -20,7 +20,7 @@ if we can try to find a relationship between such independent variables and the 
 
 The **time series analysis** is frequently used in such cases. The fundamental intuition behind time series forecasting is that, the measure of some variable at a time period will depend on the measure of the same variable at previous time periods. Therefore, we analyze the series on the series itself. If you are walking the path of becoming a data scientist, you might have already come across the term Time Series and you might have also realized the importance of Time Series Analysis and Forecating. In this post, I will try to give a gentle introduction so that it can kickstart your learning. 
 
-![]({{ site.baseurl }}/images/posts/2020-9-14/tss.png "time-series-plot")
+![](/images/posts/2020-9-14/tss.png "time-series-plot")
 
 
  1. TOC
@@ -51,7 +51,7 @@ If all the statistical characteristics of data like mean, auto correlation, vari
 
 Analyzing such time series helps to understand the patterns such as trend, seasonality,cyclicality and irregularity. **Trend** is a general direction the data is changing as time passes. **Seasonality** is when a pattern recurs over fixed regular time intervals. **Cyclicality** is when there are any fluctuations around the trend. Unlike seasonality, cyclicality may vary in length. **Irregularity** is when there are random fluctuations which are not systematic and are irregular. These fluctuations cannot be controlled. These are called as time series components.
 
-![]({{ site.baseurl }}/images/posts/2020-9-14/comps.jpg "Time series components(https://slideplayer.com/slide/8134442/)")
+![](/images/posts/2020-9-14/comps.jpg "Time series components(https://slideplayer.com/slide/8134442/)")
 
 Most of the forecasting methods assume that the data is stationary because it is easy to predict the stationary data. Therfore, it is important to convert non-stationary data to stationary in order to apply forecasting models.
 
@@ -84,7 +84,7 @@ df = pd.read_csv('births.csv')
 df.plot()
 plt.show()
 ```
-![]({{ site.baseurl }}/images/posts/2020-9-14/plot.png "data source(https://rb.gy/ehaaxw)")
+![](/images/posts/2020-9-14/plot.png "data source(https://rb.gy/ehaaxw)")
 
 Since the variations are very complex, we cannot see all the components clearly. Now, Decomposing this will give us clear picture of the components. Let's look how we can decompose this using **seasonal_decompose()** function:
 ```python
@@ -93,7 +93,7 @@ components = seasonal_decompose(df['births'], model='multiplicative',period=10)
 components.plot()
 pyplot.show()
 ```
-![]({{ site.baseurl }}/images/posts/2020-9-14/dec.png)
+![](/images/posts/2020-9-14/dec.png)
 
 Now you can see all the components, you can analyze them and remove any of them them if not needed. For example, if you want to analyze the trend of a stock data, you would need to remove the seasonality found in the data and the noise due to irregularity.
 
@@ -170,7 +170,7 @@ Well, here comes the ARIMA model which works with data that is not stationary. T
 ## Integrated (I)
 Consider a non-stationary series which needs to be forecasted. We can say whether the data is stationary or not by studying the plot against time. 
 
-![]({{ site.baseurl }}/images/posts/2020-11-11/1.png "Original time series plot (Non-stationary)")
+![](/images/posts/2020-11-11/1.png "Original time series plot (Non-stationary)")
 
 It is clearly visible that the mean is increasing over time i.e. the series is not stationary. If this upward trend is eliminated, the series becomes stationary. The easiest way to do this is to consoder the differences between consecutive timesteps. It goes as follows:
 
@@ -178,7 +178,7 @@ It is clearly visible that the mean is increasing over time i.e. the series is n
 
 After applying this transformation, the series becomes like this with observable linear trend - 
 
-![]({{ site.baseurl }}/images/posts/2020-11-11/2.png "Differenced time series plot (stationary)")
+![](/images/posts/2020-11-11/2.png "Differenced time series plot (stationary)")
 
 The transformed series is called as the differenced series. This differenced series is used for forecasting instead of the timeseries. This step of converting non-stationary series to stationary series results in the new term I which stands for Integrated. (Note: This has nothing to with integration).
 
