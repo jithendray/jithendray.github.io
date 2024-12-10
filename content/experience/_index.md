@@ -14,6 +14,8 @@ comment = false
 reaction = false
 +++
 
+## Experience
+
 ### Senior Data Engineer, NeenOpal Inc., Apr 2023 -- Present
 
 - Key contributor in architecting end-to-end AWS infrastructures, strategically selecting services to optimize data warehousing and ETL solutions for diverse client projects
