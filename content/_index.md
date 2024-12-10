@@ -11,4 +11,4 @@ On this little corner of the internet, I occasionally write down my thoughts and
 
 You can learn more about me [here](https://jithendray.github.io/about/), explore my technical blogs in the [Posts](https://jithendray.github.io/posts/) page, browse through my [Digital Garden](https://jithendray.github.io/notes/) filled with personal notes and learnings, check out the [Projects](https://jithendray.github.io/projects/) I’ve built for fun, and get a glimpse of my professional journey on the [Experience](https://jithendray.github.io/experience/) page. 
 
-Curious about what’s keeping me busy these days? Head over to the [**Now**](https://jithendray.github.io/now/) page 🚀. I also maintain a list of interesting links [**here**](https://jithendray.github.io/misc/).
+Curious about what’s keeping me busy these days? Head over to the [Now](https://jithendray.github.io/now/) page 🚀. I also maintain a list of interesting links [here](https://jithendray.github.io/misc/).
