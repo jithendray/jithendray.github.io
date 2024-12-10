@@ -5,7 +5,7 @@ template = 'home.html'
 lang = 'en'
 +++
 
-Welcome to my website. I'm Jithendra, a generalist with interests in cloud, software and data engineering.
+Welcome to my site. I'm a generalist with interests in cloud, software and data engineering.
 
 On this little corner of the internet, I occasionally write down my thoughts and learnings on topics that spark my interest—be it tech, data, or even music.
 
