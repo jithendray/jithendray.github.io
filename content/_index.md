@@ -5,12 +5,12 @@ template = 'home.html'
 lang = 'en'
 +++
 
-Welcome to my website, I'm a generalist with interests in cloud, software and data engineering.
+Welcome to my website. I'm Jithendra, a generalist with interests in cloud, software and data engineering.
 
-On this corner of the internet, I occasionally write down my musings on topics that spark my interest—be it tech, data, or even music.
+On this little corner of the internet, I occasionally write down my thoughts and learnings on topics that spark my interest—be it tech, data, or even music.
 
-I'm currently working as a Senior Data Engineer at [NeeenOpal Inc.](https://www.neenopal.com/). When I’m not working, you might find me lost in the brutal riffs of my favourite metal bands.
+I currently work as a **Senior Data Engineer** at [NeenOpal Inc.](https://www.neenopal.com/), where I design and implement ETL solutions for a global clientele. When I’m not in the tech zone, you’ll likely find me absorbed in the bone-crushing riffs and soul-piercing growls of my favorite death and doom metal bands.
 
-Check out more [about me here](https://jithendray.github.io/about/), technical blogs in the [posts](https://jithendray.github.io/posts/)page, personal notes or digital garden [here](https://jithendray.github.io/notes/), proof-of-concept projects I've built for fun [here](https://jithendray.github.io/projects/) and my career roles and responsibilities on [experience](https://jithendray.github.io/experience/) page, or see what’s keeping me busy [these days](https://jithendray.github.io/now/) 🚀 
+You can learn more about me [here](https://jithendray.github.io/about/), explore my technical blogs in the [Posts](https://jithendray.github.io/posts/) page, browse through my [Digital Garden](https://jithendray.github.io/notes/) filled with personal notes and learnings, check out the [Projects](https://jithendray.github.io/projects/) I’ve built for fun, and get a glimpse of my professional journey on the [Experience](https://jithendray.github.io/experience/) page. 
 
-I also maintain a list of miscellaneous links [here](https://jithendray.github.io/misc/).
+Curious about what’s keeping me busy these days? Head over to the [**Now**](https://jithendray.github.io/now/) page 🚀. I also maintain a list of interesting links [**here**](https://jithendray.github.io/misc/).

@@ -57,10 +57,10 @@ recent_more_text = "more »"
 sections = [
     { name = "posts", path = "/posts", is_external = false },
     # { name = "projects", path = "/projects", is_external = false },
-    { name = "notes", path = "https://jithendray.github.io/notes/", is_external = true },
     { name = "about", path = "/about", is_external = false },
     { name = "misc", path = "/misc", is_external = false },
     { name = "now", path = "/now", is_external = false },
+    { name = "notes", path = "https://jithendray.github.io/notes/", is_external = true },
     # { name = "github", path = "https://github.com/<your-username>", is_external = true },
 ]
 blog_section_path = "/posts"
