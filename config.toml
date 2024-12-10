@@ -42,11 +42,11 @@ anchors = "on"
 [extra]
 
 name = "Jithendra Yenugula"
-id = "blog"
+id = ""
 bio = "Cloud, Code and Kernel"
 avatar = ""
 
-display_id = true
+display_id = false
 display_bio = true
 display_avatar = false
 
@@ -64,6 +64,7 @@ blog_section_path = "/posts"
 
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/jithendray" },
+    { name = "GitHub", icon = "linkedin", url = "https://www.linkedin.com/in/jithendray" }
     { name = "Twitter", icon = "twitter", url = "https://twitter.com/doomedripper" },
     { name = "Email", icon = "email", url = "mailto:jithendra.yenugula@gmail.com" },
 ]
