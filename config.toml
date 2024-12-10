@@ -43,7 +43,7 @@ anchors = "on"
 
 name = "Jithendra Yenugula"
 id = "home"
-bio = "Cloud, Code and Kernel"
+bio = "Code, Cloud & Kernel"
 avatar = ""
 
 display_id = false
