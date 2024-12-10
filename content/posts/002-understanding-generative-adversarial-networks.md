@@ -2,6 +2,7 @@
 title = "Understanding Generative Adversarial Networks"
 date = 2020-05-01
 [taxonomies]
+categories = ["blog"]
 tags = ["machine-learning", "notes"]
 [extra]
 lang = "en"

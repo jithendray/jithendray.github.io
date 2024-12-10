@@ -2,6 +2,7 @@
 title = "Weight Initialization"
 date = 2021-02-02
 [taxonomies]
+categories = ["blog"]
 tags = ["machine-learning"]
 [extra]
 lang = "en"

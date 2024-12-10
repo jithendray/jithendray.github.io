@@ -2,6 +2,7 @@
 title = "Redshift: User-Defined Functions"
 date = 2022-05-29
 [taxonomies]
+categories = ["blog"]
 tags = ["aws", "data-engineering"]
 [extra]
 lang = "en"

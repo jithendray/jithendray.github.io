@@ -2,6 +2,7 @@
 title = "Redshift: Loops and Conditional Expressions"
 date = 2023-01-16
 [taxonomies]
+categories = ["blog"]
 tags = ["aws", "data-engineering"]
 [extra]
 lang = "en"

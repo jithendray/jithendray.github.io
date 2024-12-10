@@ -2,6 +2,7 @@
 title = "EndeavourOS is amazing!"
 date = 2024-09-08
 [taxonomies]
+categories = ["blog"]
 tags = ["linux"]
 [extra]
 lang = "en"

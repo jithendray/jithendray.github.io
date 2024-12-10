@@ -2,6 +2,7 @@
 title = "Root Access in Ubuntu"
 date = 2021-10-17
 [taxonomies]
+categories = ["blog"]
 tags = ["linux"]
 [extra]
 lang = "en"

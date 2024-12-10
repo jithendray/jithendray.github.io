@@ -2,6 +2,7 @@
 title = "Understanding Time Series and ARIMA"
 date = 2020-11-11
 [taxonomies]
+categories = ["blog"]
 tags = ["time-series"]
 [extra]
 lang = "en"

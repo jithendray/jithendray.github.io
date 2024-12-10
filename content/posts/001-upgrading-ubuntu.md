@@ -2,6 +2,7 @@
 title = "Upgrading Ubuntu to 20.04 LTS"
 date = 2020-05-01
 [taxonomies]
+categories = ["blog"]
 tags = ["linux"]
 [extra]
 lang = "en"

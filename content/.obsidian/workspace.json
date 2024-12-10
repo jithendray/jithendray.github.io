@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ace7df3daaaccc47",
+        "id": "4c55f073d9f6cd30",
         "type": "tabs",
         "children": [
           {
-            "id": "47d8ae3e42308d7c",
+            "id": "adf718afbb1c97f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,18 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47d8ae3e42308d7c",
+  "active": "adf718afbb1c97f1",
   "lastOpenFiles": [
     "posts/010-endeavouros.md.md",
-    "posts/011-kde-to-gnome.md.md",
-    "posts/008-redshift-udf.md",
     "posts/009-redshift-conditional-looping.md",
+    "posts/008-redshift-udf.md",
     "posts/007-lightgbm.md",
     "posts/006-root-ubuntu.md",
     "posts/005-initialization.md",
-    "posts/003-time-series.md",
     "posts/004-overfitting-regularization.md",
+    "posts/003-time-series.md",
+    "posts/002-understanding-generative-adversarial-networks.md",
     "posts/001-upgrading-ubuntu.md",
-    "posts/002-understanding-generative-adversarial-networks.md"
+    "_index.md",
+    "posts/011-kde-to-gnome.md.md"
   ]
 }

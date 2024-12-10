@@ -2,6 +2,7 @@
 title = "LightGBM (notes)"
 date = 2021-10-31
 [taxonomies]
+categories = ["blog"]
 tags = ["linux"]
 [extra]
 lang = "en"

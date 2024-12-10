@@ -2,6 +2,7 @@
 title = "From KDE to GNOME"
 date = 2024-12-10
 [taxonomies]
+categories = ["blog"]
 tags = ["linux"]
 [extra]
 lang = "en"
