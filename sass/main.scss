@@ -104,13 +104,13 @@ a:focus-visible {
   }
 
   a {
-    border-bottom: 1.5px solid var(--primary-color);
+    border-bottom: 0.5px solid var(--primary-color);
     color: var(--primary-color);
     text-decoration: none;
     overflow-wrap: anywhere;
 
     &:hover {
-      opacity: 0.8;
+      opacity: 0.7;
     }
   }
 
