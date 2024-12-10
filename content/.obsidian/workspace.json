@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "misc/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "misc/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "misc/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "misc/_index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of _index"
@@ -164,8 +164,8 @@
   },
   "active": "aeba3ad48ed5ba7d",
   "lastOpenFiles": [
-    "about/_index.md",
     "_index.md",
+    "about/_index.md",
     "experience/_index.md",
     "now/_index.md",
     "projects/_index.md",
