@@ -15,11 +15,11 @@ reaction = false
 
 Hello, my name is Jithendra Yenugula.
 
-Currently, I work as a **Data Engineer** at [NeenOpal Inc.](https://www.neenopal.com/) where I implement cloud-based ETL and data warehousing solutions for a global clientele. I've successfully delivered end-to-end projects across diverse industries—including logistics, ed-tech, and finance — delivering scalable and efficient ETL solutions and architectures.
+I currently work as a **Senior Data Engineer** at [NeenOpal Inc.](https://www.neenopal.com/), where I design and implement ETL solutions for a global clientele. As a programmer, I code mostly in Python. I’m an AWS Certified Associate Solutions Architect and Microsoft Certified Azure Data Engineer.
 
-As a programmer, I code mostly in Python. I’m an AWS Certified Associate Solutions Architect and Microsoft Certified Azure Data Engineer.
+When I’m not in the tech zone, you’ll likely find me absorbed in the bone-crushing riffs and soul-piercing growls of my favorite death and doom metal bands.
 
-### A few more things about me
+**A few more things about me**
 - **Hometown**: I grew up in [Eluru](https://en.wikipedia.org/wiki/Eluru), a small, peaceful town in Andhra Pradesh, India.
 - **Philosophy**: I live by the Stoic principle _Memento Mori_—"remember, you must die." It encourages me to remember that tomorrow is not promised, live now, embrace the temporality of it all.
 - **Music**: I’m a metalhead who loves doom and death metal.
