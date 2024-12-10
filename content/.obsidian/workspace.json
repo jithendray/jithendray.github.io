@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c55f073d9f6cd30",
+        "id": "1bb043d200dcc0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "adf718afbb1c97f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "166dbbe8597805d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/_index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "44cd4fafb93f2c1f",
+            "id": "47f8e8d778b0e2ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,40 +22,12 @@
             }
           },
           {
-            "id": "a035df00944abfda",
+            "id": "bd600a4f6b9c25eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/_index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "47f340d2d0d1e77d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "experience/_index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "0f1f769b979c40e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/_index.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/_index.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/_index.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -210,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/_index.md"
+                "file": "_index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of _index"
@@ -233,17 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f1f769b979c40e5",
+  "active": "bd600a4f6b9c25eb",
   "lastOpenFiles": [
-    "projects/_index.md",
     "now/_index.md",
+    "_index.md",
+    "about/_index.md",
+    "projects/_index.md",
     "experience/_index.md",
     "misc/_index.md",
     "projects",
     "experience",
-    "about/_index.md",
     "misc",
-    "_index.md",
     "now",
     "posts/_index.md",
     "posts/011-kde-to-gnome.md.md",

@@ -7,23 +7,12 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 math = false
+toc = true
 mermaid = false
 copy = false
 comment = false
 reaction = false
 +++
-
-Here are just some miscellaneous links.
-### me
-- [Experience](https://jithendray.github.io/experience.html) across different roles in my career
-- [Projects](https://jithendray.github.io/projects.html) developed for proof-of-concept and fun
-- [Now](https://jithendray.github.io/now.html) - what's keeping me busy these days!
-- My personal [Digital Garden](https://jithendray.github.io/notes/) - Synced seamlessly with my Obsidian
-- [Cursed Collection](https://cursedcollection.github.io/) - where I write about my favorite music
-- [GitHub](https://github.com/jithendray) - where I store all my work in general
-- [LinkedIn](https://www.linkedin.com/in/jithendray/) - Ping me, if you want to hire me or discuss anything professional
-- [X/Twitter](https://www.twitter.com/doomedripper) - Say hi, if you want to discuss about anything music and heavy metal
-
 ### Blogs I like
 - [Mark Manson](https://markmanson.net/articles) : articles on self-improvement, productivity, relationships, and living a better life.
 - [Zen Pencils](https://www.zenpencils.com/newreaders/) : this guy makes comic out of quotes

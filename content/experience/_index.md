@@ -7,6 +7,7 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 math = false
+toc = true
 mermaid = false
 copy = false
 comment = false
