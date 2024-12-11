@@ -76,8 +76,7 @@ We define a neural network __G(z, θg)__ that maps random noise variables _z_ to
 
 The _discriminator_ is simply a classifier. We can use any architecture for the discriminator that is appropriate to the type of data we are using. The discriminator is trained in such a way that it classifies the input data as either real or fake. So the parameters (θd) of the discriminator are updated in order to minimize the probability that any fake data sample G(z) is classified as a real one and also to maximize the probability any real data sample x is classified as belonging to the real dataset. In order words, the loss function of __discriminator minimizes D(G(z)) and maximizes D(x). Minimizing log(D(G(z))) is same as maximizing log(1-D(G(z)))__. So the objective for the discriminator becomes:
 
-![](content/assets/images/posts/2020-7-11/disobj.png)
-
+![](public/static/assets/disobj.png)
 
 The _generator_ learns to make the discriminator classify the data generated as real through feedback from the discriminator. The parameters (θg) of the generator are updated in order to maximize the probability that any fake data sample is classified as a real one. So the loss function of generator __maximizes D(G(z))__.
 
