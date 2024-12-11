@@ -1,7 +1,8 @@
 ---
 title: Upgrading Ubuntu to 20.04 LTS
 draft: false
-tags: 
+tags:
+  - linux
 date: 2020-05-01
 ---
 I am very excited about the new version of Ubuntu. The beta version was released a month ago. But since it was fairly stable, 
