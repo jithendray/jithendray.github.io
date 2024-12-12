@@ -14,7 +14,7 @@ On this little corner of the internet, I occasionally write down my thoughts and
   
   I write random notes and blog posts on topics like [[notes/aws]], [[notes/linux]], [[notes/python]], [[notes/sql]]
   
-  **Note**: This an experiment in `Shawn Wang's (@swyx)` [learning in public](https://www.swyx.io/learn-in-public).
+  **Note**: This is an experiment inspired by `Shawn Wang's (@swyx)` concept of [learning in public](https://www.swyx.io/learn-in-public).
 - 💻 Check out [[projects]] I’ve built while learning/exploring stuff.
 - 🛠️ Glimpse of my professional [[experience]].
 - 📆 What’s keeping me busy these days [[now]].
