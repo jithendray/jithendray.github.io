@@ -19,7 +19,7 @@ When I’m not immersed in tech, you’ll find me getting lost in the soul-crush
 - 🛠️ Glimpse of my professional [[experience]].
 - 📆 What’s keeping me busy these days [[now]].
 - 🔗 Collection of random [[misc]] links.
-- 🎸 My music blog [Cursed Collection](https://cursedcollection.github.io/), where I write about my favourite bands and albums.
+- 🎸 My music blog [Doomed Collection](https://doomedcollection.github.io/), where I write about my favourite bands and albums.
 
 
 **Contact me**
