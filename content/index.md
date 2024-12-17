@@ -12,7 +12,7 @@ When I’m not immersed in tech, you’ll find me getting lost in the soul-crush
 
 - 🧘‍♂️ Learn more [[about]] me.
 - ✍️ Long-form posts in my [[blog]] on tech and beyond.
-- 📝 My messy, half-baked, and unpolished [[notes]].   
+- 📝 My messy, half-baked, and unpolished [[notes/]].   
   
   **Note**: This is an experiment inspired by `Shawn Wang's (@swyx)` concept of [learning in public](https://www.swyx.io/learn-in-public).
 - 💻 Check out [[projects]] I’ve built while learning/exploring stuff.
