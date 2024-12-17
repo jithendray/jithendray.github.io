@@ -1,8 +1,7 @@
 ---
-
 tags: sql
-
 ---
+
 # SQL Joins
 
 ## What are Joins?

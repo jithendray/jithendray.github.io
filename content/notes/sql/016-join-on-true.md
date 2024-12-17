@@ -1,8 +1,9 @@
 ---
-
 tags: sql
-
 ---
+
+# JOIN on TRUE
+
 In [[notes/sql/015-sql-joins|015-sql-joins]] - sometimes tables should be joined just to give results from multiple tables in the same output without any joining key.
 
 ```sql
