@@ -1,4 +1,8 @@
+---
 
+tags: sql
+
+---
 # Correlated Sub-query in SQL
 
 ### What is a Correlated Sub-query?
