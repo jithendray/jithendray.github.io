@@ -1,6 +1,6 @@
 ---
 layout: post
-title: about
+title: About
 ---
 
 Hello, my name is Jithendra Yenugula.

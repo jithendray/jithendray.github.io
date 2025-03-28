@@ -1,6 +1,6 @@
 ---
 layout: post
-title: projects
+title: Projects
 ---
 
 ### AWS SageMaker - Fraud Detection service

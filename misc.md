@@ -1,6 +1,6 @@
 ---
 layout: post
-title: misc
+title: Misc.
 ---
 Here are just some miscellaneous links.
 
