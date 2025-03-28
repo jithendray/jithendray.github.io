@@ -9,7 +9,6 @@ The `to_char` function in PostgreSQL is used to format various data types, such 
 **Basic Syntax**
 
 ```sql
-sqlCopy code
 to_char(value, format)
 ```
 
@@ -47,7 +46,6 @@ to_char(value, format)
 1. **Extract Year and Month**
     
     ```sql
-    sqlCopy code
     SELECT to_char(order_date, 'YYYY-MM') AS year_month
     FROM orders;
     ```
@@ -55,7 +53,6 @@ to_char(value, format)
 2. **Full Date with Month Name**
     
     ```sql
-    sqlCopy code
     SELECT to_char(order_date, 'Month DD, YYYY') AS formatted_date
     FROM orders;
     ```
@@ -63,7 +60,6 @@ to_char(value, format)
 3. **Day of the Week**
     
     ```sql
-    sqlCopy code
     SELECT to_char(order_date, 'Day') AS day_of_week
     FROM orders;
     ```
@@ -74,7 +70,6 @@ to_char(value, format)
 1. **Integer with Leading Zeros**
     
     ```sql
-    sqlCopy code
     SELECT to_char(7, '000') AS formatted_number;
     -- Output: '007'
     ```
@@ -82,7 +77,6 @@ to_char(value, format)
 2. **Decimal Number with Thousands Separator**
     
     ```sql
-    sqlCopy code
     SELECT to_char(12345.67, '9,999.99') AS formatted_number;
     -- Output: '12,345.67'
     ```
@@ -90,7 +84,6 @@ to_char(value, format)
 3. **Currency Format**
     
     ```sql
-    sqlCopy code
     SELECT to_char(12345.67, 'L9,999.99') AS formatted_number;
     -- Output depends on locale setting, e.g., '$12,345.67'
     ```
