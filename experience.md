@@ -5,6 +5,7 @@ title: Experience
 
 ### Data Engineer II, Amazon, Mar 2025 -- Present
 
+FinTech - Accounting Data Analytics
 
 ---
 
