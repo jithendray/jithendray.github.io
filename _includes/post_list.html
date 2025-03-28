@@ -1,7 +1,7 @@
 {% if site.posts.size > 0 %}
     {% for post in site.posts %}
         <span class="home-date">
-          {{ post.date | date: site.theme_config.date_format }}»
+          {{ post.date | date: site.theme_config.date_format }}
         </span>
         <br>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
