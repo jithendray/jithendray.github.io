@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experience
+title: experience
 ---
 
 ### Data Engineer II, Amazon, Mar 2025 -- Present

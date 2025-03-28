@@ -11,7 +11,7 @@ On this little corner of the internet, I occasionally write down my thoughts and
 
 When I’m not immersed in tech, you’ll find me getting lost in the soul-crushing riffs and guttural growls of my favourite death and doom metal bands.
 
-You can read more [about me here](https://jithendray.github.io/about). I write [notes](https://jithendray.github.io/notes) and occasionally [blog](https://jithendray.github.io/blog).
+You can read more [about me here](https://jithendray.github.io/about). I write [notes](https://jithendray.github.io/notes), occasionally [blog](https://jithendray.github.io/blog) and share some of my [miscellaneous favorite things](https://jithendray.github.io/misc). Curious about what I’m up to? Check out my [now page](https://jithendray.github.io/now).
 
 #### Get in touch
 
