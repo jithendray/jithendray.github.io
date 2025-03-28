@@ -10,23 +10,8 @@ A raw collection of my notes, seamlessly synced with my **OBSIDIAN** vault, capt
 - [EBS vs EFS](aws/aws-ebs-efs.md)
 - [EC2 notes](aws/aws-ec2.md)
 - [IAM notes](aws/aws-iam.md)
-- [Redshift: Loops and Conditional Expressions](aws/redshift-loops.md)
-- [Redshift: User-Defined Functions](aws/redshuft-udf.md)
-
-### linux
-- [Root Access in Ubuntu](linux/root-ubuntu.md)
-- [Upgrading Ubuntu to 20.04 LTS](linux/upgrading-ubuntu.md)
-
-### machine-learning
-- [ML resources](machine-learning/ml-interview-resources.md)
-- [Understanding Time Series and ARIMA](machine-learning/understanding-arima.md)
-- [Understanding Generative Adversarial Networks](machine-learning/understanding-gans.md)
-
-### python
-- [Things to remember for interviews](python/important-things-python.md)
-
-### spark
-- [Spark basics](spark/spark-basics.md)
+- ["Redshift: Loops and Conditional Expressions"](aws/redshift-loops.md)
+- ["title: Redshift: User-Defined Functions"](aws/redshuft-udf.md)
 
 ### sql
 - [SQL stuff to remember](sql/important-sql-stuff.md)
@@ -36,3 +21,16 @@ A raw collection of my notes, seamlessly synced with my **OBSIDIAN** vault, capt
 - [Sql practice questions](sql/sql-practice-questions.md)
 - [to_char in PostgreSQL](sql/sql-to-char.md)
 - [UPDATE statements in SQL](sql/sql-update-statements.md)
+
+### linux
+- [Root Access in Ubuntu](linux/root-ubuntu.md)
+
+### machine-learning
+- [ML resources](machine-learning/ml-interview-resources.md)
+
+### spark
+- [Spark basics](spark/spark-basics.md)
+
+### python
+- [Things to remember for interviews](python/important-things-python.md)
+- [Python json notes](python/python-json-notes.md)
