@@ -2,6 +2,8 @@
 tags:
   - misc
   - finance
+layout: post
+title: Accounting-101
 ---
 **Financial Accounting:** The process of identifying, recording, summarising and analysing an entity's financial transactions and reporting them in financial statements
 

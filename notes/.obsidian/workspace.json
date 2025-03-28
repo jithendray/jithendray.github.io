@@ -11,10 +11,14 @@
             "id": "220326151336f447",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "python/python-json-notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "python-json-notes"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "python/python-json-notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of python-json-notes"
             }
           }
         ],
@@ -161,16 +166,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6e242c982be4b3f",
+  "active": "220326151336f447",
   "lastOpenFiles": [
+    "sql/sql-to-char.md",
+    "sql/sql-update-statements.md",
+    "misc/accounting-101.md",
+    "python/important-things-python.md",
+    "machine-learning/ml-interview-resources.md",
     "python/python-json-notes.md",
     "index.md",
     "aws/aws-ebs-efs.md",
     "Untitled.md",
-    "misc/Accounting-101.md",
     "misc",
     "General DE guidelines.md",
-    "machine-learning/ml-interview-resources.md",
     "python-best-practices.md",
     "glue-lambda-development-guide.md",
     "aws/redshift-loops.md",
@@ -186,11 +194,8 @@
     "dsa/Sliding Window.md",
     "dsa",
     "sql/sql-date-differences.md",
-    "python/important-things-python.md",
     "sql/sql-integer-division.md",
-    "sql/sql-to-char.md",
     "sql/sql-interview-topics.md",
-    "sql/sql-tuple-distinct-counting.md",
     "python",
     "dsa",
     "sql",

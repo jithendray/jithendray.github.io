@@ -10,8 +10,6 @@ A raw collection of my notes, seamlessly synced with my **OBSIDIAN** vault, capt
 - [EBS vs EFS](aws/aws-ebs-efs.md)
 - [EC2 notes](aws/aws-ec2.md)
 - [IAM notes](aws/aws-iam.md)
-- ["Redshift: Loops and Conditional Expressions"](aws/redshift-loops.md)
-- ["title: Redshift: User-Defined Functions"](aws/redshuft-udf.md)
 
 ### sql
 - [SQL stuff to remember](sql/important-sql-stuff.md)
@@ -25,15 +23,12 @@ A raw collection of my notes, seamlessly synced with my **OBSIDIAN** vault, capt
 ### linux
 - [Root Access in Ubuntu](linux/root-ubuntu.md)
 
-### machine-learning
-- [ML resources](machine-learning/ml-interview-resources.md)
-
 ### misc
-- [Accounting 101](misc/Accounting-101.md)
+- [Accounting-101](misc/accounting-101.md)
 
 ### spark
 - [Spark basics](spark/spark-basics.md)
 
 ### python
 - [Things to remember for interviews](python/important-things-python.md)
-- [Python json notes](python/python-json-notes.md)
+- [python-json-notes](python/python-json-notes.md)

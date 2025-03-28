@@ -1,6 +1,8 @@
 ---
 tags:
   - python
+layout: post
+title: python-json-notes
 ---
 #### Intro
 - JSON - JavaScript Object Notation
