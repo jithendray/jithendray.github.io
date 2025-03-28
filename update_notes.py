@@ -7,7 +7,7 @@ index_file = os.path.join(notes_dir, "index.md")
 
 # List of folders to ignore
 ignored_folders = ['.obsidian', 'images', 'notes', 'dsa', 'plugins', 'themes', 'obsidian-plugin-toc', 
-                   'AnuPpuccin', 'Obsidian Nord', 'Obsidianite', 'Shimmering Focus', 'Typewriter']
+                   'AnuPpuccin', 'Obsidian Nord', 'Obsidianite', 'Shimmering Focus', 'Typewriter', 'Minimal']
 
 # Function to extract the title from the front matter of a Markdown file
 def extract_title_from_markdown(file_path):

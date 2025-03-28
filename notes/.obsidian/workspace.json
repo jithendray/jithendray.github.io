@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -168,9 +168,13 @@
   },
   "active": "e6e242c982be4b3f",
   "lastOpenFiles": [
+    "misc/Accounting-101.md",
+    "misc",
+    "index.md",
+    "Untitled.md",
+    "General DE guidelines.md",
     "python/python-json-notes.md",
     "machine-learning/ml-interview-resources.md",
-    "General DE guidelines.md",
     "python-best-practices.md",
     "glue-lambda-development-guide.md",
     "aws/redshift-loops.md",
@@ -186,7 +190,6 @@
     "dsa/Sliding Window.md",
     "dsa",
     "sql/sql-date-differences.md",
-    "index.md",
     "python/important-things-python.md",
     "sql/sql-integer-division.md",
     "sql/sql-to-char.md",
@@ -195,8 +198,6 @@
     "python",
     "dsa/arrays-notes.md",
     "dsa",
-    "sql/sql-update-statements.md",
-    "sql.md",
     "sql",
     "images/orisam.png",
     "images/minmax.png",

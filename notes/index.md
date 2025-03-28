@@ -28,6 +28,9 @@ A raw collection of my notes, seamlessly synced with my **OBSIDIAN** vault, capt
 ### machine-learning
 - [ML resources](machine-learning/ml-interview-resources.md)
 
+### misc
+- [Accounting 101](misc/Accounting-101.md)
+
 ### spark
 - [Spark basics](spark/spark-basics.md)
 
