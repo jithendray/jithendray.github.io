@@ -14,9 +14,7 @@ tags:
 - `cp [source] [destination]` – Copy files or directories  
 - `mv [source] [destination]` – Move/rename files  
 - `find [path] -name [filename]` – Search for files by name  
-
 ---
-
 ### **File Operations**  
 - `cat [file]` – Display file contents  
 - `tac [file]` – Display file contents in reverse  
@@ -27,17 +25,13 @@ tags:
 - `touch [file]` – Create an empty file or update timestamp  
 - `stat [file]` – Display file metadata  
 - `diff [file1] [file2]` – Compare two files  
-
 ---
-
 ### **Permissions and Ownership**  
 - `ls -l` – Show file permissions and ownership  
 - `chmod [mode] [file]` – Change file permissions (`chmod 755 file`)  
 - `chown [user]:[group] [file]` – Change file owner  
 - `chgrp [group] [file]` – Change file group  
-
 ---
-
 ### **Process Management**  
 - `ps aux` – Show running processes  
 - `top` – Display real-time process usage  
@@ -62,9 +56,7 @@ tags:
 - `ss -tulnp` – Modern alternative to `netstat`  
 - `traceroute [host]` – Trace network path to a host  
 - `nslookup [domain]` – Query DNS records  
-
 ---
-
 ### **User Management**  
 - `whoami` – Show current user  
 - `who` – Show logged-in users  
@@ -86,28 +78,22 @@ tags:
 - `lsblk` – List all block devices  
 - `fdisk -l` – Show disk partitions  
 - `mkfs.ext4 /dev/[device]` – Format a disk partition  
-
 ---
-
 ### **Package Management**  
 #### **Debian/Ubuntu (APT)**
 - `apt update` – Update package lists  
 - `apt upgrade` – Upgrade all installed packages  
 - `apt install [package]` – Install a package  
 - `apt remove [package]` – Remove a package  
-
 #### **Arch Linux (Pacman)**
 - `pacman -Syu` – Sync and update system  
 - `pacman -S [package]` – Install package  
 - `pacman -R [package]` – Remove package  
-
 #### **Red Hat/CentOS (Yum/DNF)**
 - `yum update` or `dnf update` – Update packages  
 - `yum install [package]` – Install package  
 - `yum remove [package]` – Remove package  
-
 ---
-
 ### **System Monitoring**  
 - `uptime` – Show system uptime  
 - `free -h` – Show memory usage  
@@ -116,9 +102,7 @@ tags:
 - `dmesg | tail` – Show kernel logs  
 - `journalctl -xe` – Show detailed system logs  
 - `history` – Show command history  
-
 ---
-
 ### **Archiving and Compression**  
 - `tar -cvf archive.tar [file/dir]` – Create tar archive  
 - `tar -xvf archive.tar` – Extract tar archive  
@@ -126,9 +110,7 @@ tags:
 - `tar -xzvf archive.tar.gz` – Extract tar.gz archive  
 - `zip [file.zip] [file]` – Create ZIP archive  
 - `unzip [file.zip]` – Extract ZIP archive  
-
 ---
-
 ### **Text Processing**  
 - `grep [pattern] [file]` – Search text in a file  
 - `awk '{print $1}' file` – Process text by columns  
@@ -136,9 +118,7 @@ tags:
 - `cut -d':' -f1 /etc/passwd` – Extract fields from text  
 - `sort [file]` – Sort file content  
 - `uniq [file]` – Remove duplicate lines  
-
 ---
-
 ### **Shell Scripting and Automation**  
 - `echo "Hello"` – Print text  
 - `read var` – Take user input  
@@ -146,9 +126,7 @@ tags:
 - `crontab -e` – Edit cron jobs  
 - `chmod +x script.sh` – Make script executable  
 - `./script.sh` – Run a script  
-
 ---
-
 ### **Miscellaneous**  
 - `alias ll='ls -lah'` – Create alias  
 - `unalias ll` – Remove alias  
@@ -156,7 +134,3 @@ tags:
 - `watch -n 5 [command]` – Run command every 5 seconds  
 - `yes | command` – Auto-confirm prompts  
 - `sleep 5` – Wait for 5 seconds  
-
----
-
-This covers essential Linux commands for everyday use! Let me know if you need more advanced or specific ones. 🚀

@@ -16,11 +16,12 @@ A raw collection of my notes, seamlessly synced with my **OBSIDIAN** vault, capt
 - [Data differences in SQL](sql/sql-date-differences.md)
 - [Integer Division PostgreSQL](sql/sql-integer-division.md)
 - [SQL interview topics](sql/sql-interview-topics.md)
-- [Sql practice questions](sql/sql-practice-questions.md)
+- [SQL Practice Questions](sql/sql-practice-questions.md)
 - [to_char in PostgreSQL](sql/sql-to-char.md)
 - [UPDATE statements in SQL](sql/sql-update-statements.md)
 
 ### linux
+- [Linux Commands](linux/linux-commands.md)
 - [Root Access in Ubuntu](linux/root-ubuntu.md)
 
 ### misc
