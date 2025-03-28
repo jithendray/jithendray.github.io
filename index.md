@@ -5,7 +5,7 @@ layout: home
 
 ### whoami
 
-Hello, I'm a generalist with interests in data engineering, cloud engineering, linux and software engineering. Currently, I work as a **Data Engineer II** at Amazon's FinTech team.
+Hello, I'm a generalist with interests in data engineering, cloud engineering, linux and software engineering. Currently, I work as a **Data Engineer II** in Amazon's FinTech team.
 
 On this little corner of the internet, I occasionally write down my thoughts and learning on topics that spark my interest—be it tech, data, or anything that I'm learning.
 
