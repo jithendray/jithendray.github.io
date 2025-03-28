@@ -8,8 +8,7 @@ Here are just some miscellaneous links.
 - [Experience](https://jithendray.github.io/experience.html) across different roles in my career
 - [Projects](https://jithendray.github.io/projects.html) developed for proof-of-concept and fun
 - [Now](https://jithendray.github.io/now.html) - what's keeping me busy these days!
-- My public [Digital Garden](https://jithendray.github.io/notes/) - Synced seamlessly with my Obsidian
-- [Cursed Collection](https://cursedcollection.github.io/) - where I write about my favourite metal albums/bands
+- [Doomed Collection](https://doomedcollection.github.io/) - where I write about my favourite metal albums/bands
 
 ### Blogs I like
 - [Mark Manson](https://markmanson.net/articles) : articles on self-improvement, productivity, relationships, and living a better life.
