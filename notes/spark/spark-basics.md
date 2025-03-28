@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Spark basics
+tags:
+  - spark
 ---
 
 **Spark**

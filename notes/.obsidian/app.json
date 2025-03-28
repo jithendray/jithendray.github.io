@@ -1,4 +1,7 @@
 {
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes"
 }

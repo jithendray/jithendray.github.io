@@ -1,3 +1,10 @@
+---
+layout: post
+title: SQL Practice Questions
+tags:
+  - sql
+---
+
 Note: These questions are generated through ChatGPT - which should cover all areas to focus on and get well versed with.
 
 ### Should you focus solely on these questions?

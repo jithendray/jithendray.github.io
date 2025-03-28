@@ -1,6 +1,8 @@
 ---
 layout: post
 title: SQL interview topics
+tags:
+  - sql
 ---
 Here are key SQL question patterns and topics you should focus on for cracking data engineering interviews at FAANG and unicorn startups:
 

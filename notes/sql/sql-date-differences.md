@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Data differences in SQL
+tags:
+  - sql
 ---
 
 In PostgreSQL, there is no direct `DATEDIFF` function as found in some other SQL databases like SQL Server. However, you can achieve the same result using various date and time functions provided by PostgreSQL.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: EC2 notes
+tags:
+  - aws
 ---
 ### Basics
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: to_char in PostgreSQL
+tags:
+  - sql
 ---
 ## to_char in PostgreSQL
 

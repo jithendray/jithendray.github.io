@@ -1,6 +1,8 @@
 ---
 layout: post
 title: UPDATE statements in SQL
+tags:
+  - sql
 ---
 ### General Notes on `UPDATE` Statements in SQL
 

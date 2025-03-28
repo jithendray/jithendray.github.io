@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python-json-notes.md",
+                "file": "linux/linux-commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python-json-notes"
+              "title": "linux-commands"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python-json-notes.md",
+                "file": "linux/linux-commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of python-json-notes"
+              "title": "Outline of linux-commands"
             }
           }
         ],
@@ -168,34 +168,34 @@
   },
   "active": "220326151336f447",
   "lastOpenFiles": [
-    "sql/sql-to-char.md",
+    "linux/root-ubuntu.md",
+    "spark/spark-basics.md",
     "sql/sql-update-statements.md",
+    "sql/sql-to-char.md",
+    "sql/sql-practice-questions.md",
+    "sql/sql-interview-topics.md",
+    "sql/sql-integer-division.md",
+    "sql/sql-date-differences.md",
+    "sql/important-sql-stuff.md",
+    "aws/aws-iam.md",
+    "aws/aws-ec2.md",
+    "aws/aws-ebs-efs.md",
+    "linux/linux-commands.md",
+    "python/python-json-notes.md",
     "misc/accounting-101.md",
     "python/important-things-python.md",
     "machine-learning/ml-interview-resources.md",
-    "python/python-json-notes.md",
     "index.md",
-    "aws/aws-ebs-efs.md",
     "Untitled.md",
     "misc",
-    "General DE guidelines.md",
+    "notes/General DE guidelines.md",
     "python-best-practices.md",
     "glue-lambda-development-guide.md",
     "aws/redshift-loops.md",
     "aws/redshuft-udf.md",
-    "aws/aws-ec2.md",
-    "aws/aws-iam.md",
-    "linux/root-ubuntu.md",
     "linux/upgrading-ubuntu.md",
-    "sql/sql-practice-questions.md",
     "machine-learning/understanding-gans.md",
-    "machine-learning/understanding-arima.md",
-    "sql/important-sql-stuff.md",
-    "dsa/Sliding Window.md",
     "dsa",
-    "sql/sql-date-differences.md",
-    "sql/sql-integer-division.md",
-    "sql/sql-interview-topics.md",
     "python",
     "dsa",
     "sql",

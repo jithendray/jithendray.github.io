@@ -1,6 +1,8 @@
 ---
 layout: post
 title: IAM notes
+tags:
+  - aws
 ---
 ### AWS Global Infrastructure ([https://infrastructure.aws/](https://infrastructure.aws/))
 

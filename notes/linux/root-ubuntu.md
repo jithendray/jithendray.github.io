@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Root Access in Ubuntu
+tags:
+  - linux
 ---
 
 There are many ways to gain root privileges and it is very confusing for linux noobs(like myself) to understand how different all the existing ways are. So, I am writing few points I observed while accessing root privileges in Ubuntu.

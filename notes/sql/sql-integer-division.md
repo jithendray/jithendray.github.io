@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Integer Division PostgreSQL
+tags:
+  - sql
 ---
 ## Integer Division
 

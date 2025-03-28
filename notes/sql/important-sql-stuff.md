@@ -1,6 +1,8 @@
 ---
 layout: post
 title: SQL stuff to remember
+tags:
+  - sql
 ---
 ### `count(*)` vs `count(id)`
 - **Use `COUNT(*)`**: When you want to count **all rows**, regardless of whether columns contain `NULL` values. Since `emp_id` is typically a primary key (or not `NULL`), `COUNT(*)` and `COUNT(emp_id)` will generally give the same result in this scenario.

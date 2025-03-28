@@ -1,0 +1,38 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "linux",
+      "tag": "#linux",
+      "pattern": ""
+    },
+    {
+      "folder": "python",
+      "tag": "#python",
+      "pattern": ""
+    },
+    {
+      "folder": "aws",
+      "tag": "#aws",
+      "pattern": ""
+    },
+    {
+      "folder": "spark",
+      "tag": "#spark",
+      "pattern": ""
+    },
+    {
+      "folder": "sql",
+      "tag": "#sql",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

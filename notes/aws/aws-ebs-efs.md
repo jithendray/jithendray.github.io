@@ -1,6 +1,8 @@
 ---
 layout: post
 title: EBS vs EFS
+tags:
+  - aws
 ---
 ## EBS
 
