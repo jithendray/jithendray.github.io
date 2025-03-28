@@ -43,9 +43,7 @@ tags:
 - `fg` – Bring background job to foreground  
 - `bg` – Resume a background job  
 - `nohup [command] &` – Run a process in the background  
-
 ---
-
 ### **Networking**  
 - `ip a` – Show IP address configuration  
 - `ifconfig` – Deprecated alternative to `ip a`  
@@ -67,9 +65,7 @@ tags:
 - `useradd [user]` – Create a new user  
 - `usermod -aG [group] [user]` – Add user to a group  
 - `userdel [user]` – Delete a user  
-
 ---
-
 ### **Disk and Storage**  
 - `df -h` – Show disk space usage  
 - `du -sh [dir]` – Show size of a directory  
