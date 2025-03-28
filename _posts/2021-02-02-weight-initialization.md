@@ -1,9 +1,7 @@
 ---
-title: Weight Initialization
-draft: false
-tags:
-  - machine-learning
-date: 2021-02-02
+layout: post
+title: "Weight Initialization"
+tags: [machine-learning]
 ---
  In this article, I am writing some notes about weight initialization. 
 I took these from various sources I am reading regarding this. Links and References at the end of the post! Consider reading them to get a clear understanding!

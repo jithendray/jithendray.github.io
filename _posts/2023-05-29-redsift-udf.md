@@ -1,10 +1,7 @@
 ---
-title: Redshift - User-Defined Functions
-draft: false
-tags:
-  - aws
-  - data-engineering
-date: 2023-05-29
+layout: post
+title: "Redshift: User-Defined Functions"
+tags: [aws]
 ---
  Today I learned, I can create functions in SQL and use them over and over for repetitive tasks while building or developing pipelines. I've been working with AWS Redshift for the past few months. Redshift is a very powerful and cost-effective cloud data warehousing solution provided by Amazon. It has its own Redshift SQL dialect which is a variant of PostgreSQL.
 

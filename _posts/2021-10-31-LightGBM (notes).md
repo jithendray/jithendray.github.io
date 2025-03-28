@@ -1,11 +1,10 @@
 ---
-title: LightGBM (notes)
-draft: false
-tags:
-  - machine-learning
-date: 2021-10-31
+layout: post
+title: "LightGBM (notes)"
+tags: [machine-learning]
 ---
- Apart from [listening to metal and writing a review](https://cursedcollection.github.io/icons-of-evil/){:target="_blank"}, I spent my Sunday reading the original LGBM paper and few tutorials on gradient boosting frameworks. In this article, I am writing some notes and my understandings about LGBM.
+
+ Apart from [listening to metal and writing a review, I spent my Sunday reading the original LGBM paper and few tutorials on gradient boosting frameworks. In this article, I am writing some notes and my understandings about LGBM.
 
 NOTE: This is post for my future self to look back and review the material. So, this’ll be very unpolished! Consider reading the paper or watching the talks which I mentioned in the References section at the end of this post.
 
