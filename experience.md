@@ -3,14 +3,18 @@ layout: post
 title: Experience
 ---
 
-### Senior Data Engineer, NeenOpal Inc., Apr 2023 -- Present
+### Data Engineer II, Amazon, Mar 2025 -- Present
+
+
+---
+
+### Senior Data Engineer, NeenOpal Inc., Apr 2023 -- Mar 2025
 
 - Key contributor in architecting end-to-end AWS infrastructures, strategically selecting services to optimize data warehousing and ETL solutions for diverse client projects
 - Significantly contributed to elevating the company's AWS partnership tier by conducting AWS Well-Architected reviews for numerous clients
 - ETL and BI Implementation for a US-based Employee Educational Benefits Firm (Financial Sector)
     - Led data engineering initiatives, overseeing the entire project lifecycle
     - Engineered a highly efficient ETL solution by constructing a data lake on Amazon S3. Migrated and integrated data from MongoDB, MySQL, and PostgreSQL for advanced analytics using AWS Glue and Spark
-    - Architected and deployed a robust CI/CD pipeline from scratch, leveraging AWS CodeCommit, CodePipeline, and CodeBuild to ensure seamless integration and continuous delivery
 
 
 ---

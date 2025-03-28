@@ -5,10 +5,11 @@ layout: home
 
 ### whoami
 
-👋, I'm Jithendra. I am a generalist with interests in cloud, software and data engineering. 
+Hello, I'm a generalist with interests in data engineering, cloud engineering, linux and software engineering. Currently, I work as a **Data Engineer II** at Amazon's FinTech team.
 
-#### Currently
-I work as a Data Engineer at [NeenOpal Inc.](https://www.neenopal.com/) where I implement cloud-based ETL and data warehousing solutions for a global clientele. I've successfully delivered end-to-end projects across diverse industries—including logistics, ed-tech, and finance — delivering scalable and efficient ETL solutions and architectures.
+On this little corner of the internet, I occasionally write down my thoughts and learning on topics that spark my interest—be it tech, data, or anything that I'm learning.
+
+When I’m not immersed in tech, you’ll find me getting lost in the soul-crushing riffs and guttural growls of my favourite death and doom metal bands.
 
 You can read more [about me here](https://jithendray.github.io/about). I write [notes](https://jithendray.github.io/notes) and occasionally [blog](https://jithendray.github.io/blog).
 
