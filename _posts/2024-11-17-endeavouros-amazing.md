@@ -11,8 +11,10 @@ I've been using EndeavourOS exclusively for the past year, and I must admit that
 
 Ubuntu is where almost everyone, including myself, begins their Linux adventure. Why not? It is user-friendly, incredibly simple to install, stable, and free of unexpected malfunctions. Plus, almost every software on these distros works perfectly and rarely breaks.
 
-![]({{ site.baseurl }}/images/posts/2024-09-22/debian-ubuntu.jpg "debian-ubuntu")
 
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="/images/posts/2024-09-22/debian-ubuntu.jpg" alt="deb-ubu" width="300" height="150" />
+</div>
 
 So, why did I switch?
 
