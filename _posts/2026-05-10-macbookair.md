@@ -37,7 +37,7 @@ I started trying different desktop environments, different distros and different
 Currently I still have two old laptops lying around. One is my old college laptop — HP Pavilion 15-cc102tx. The other one is my brother's old HP Envy laptop. Yeah, I was a sucker for HP laptops back then. Cheap and best lol. One laptop runs EndeavourOS and the other one runs NixOS.
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <img src="/images/posts/2026-05-10/lap1.jpeg" alt="lap1" width="400" height="220" />
+  <img src="/images/posts/2026-05-10/lap1.jpeg" alt="lap1" />
   
   <p style="font-size: 14px; color: gray; margin-top: 8px;">
     My old HP Pavilion - still works like a beast with Linux
@@ -47,7 +47,7 @@ Currently I still have two old laptops lying around. One is my old college lapto
 While installing NixOS on my brother's laptop, I somehow messed up the Windows dual boot setup completely. Windows got stuck on recovery blue screen with "Your PC couldn't start properly". I ended up spending entire night fixing it. Creating Windows bootable USB again, wiping things properly, reinstalling Windows from scratch and setting everything up again. I broke things. I panicked for few minutes. Then slowly started understanding what actually went wrong. Somewhere in that process, I have learnt way more about computers than I normally would.
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <img src="/images/posts/2026-05-10/lap2.jpeg" alt="lap2" width="400" height="220" />
+  <img src="/images/posts/2026-05-10/lap2.jpeg" alt="lap2" />
   
   <p style="font-size: 14px; color: gray; margin-top: 8px;">
     Messed up real bad on HP Envy
@@ -65,7 +65,7 @@ I think this started around the time I moved from KDE to GNOME. KDE is extremely
 Recently I bought MacBook Air M5. Even typing that still feels slightly illegal as a Linux fanboy. But, This machine is genuinely impressive.
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <img src="/images/posts/2026-05-10/mac.jpeg" alt="mac" width="400" height="220" />
+  <img src="/images/posts/2026-05-10/mac.jpeg" alt="mac" />
 </div>
 
 The first thing I noticed was how little friction exists while using it. Open lid and it instantly works. Close lid and battery barely drops. No fan noise. No random heating. And the battery - Mac really outshined every laptop company out there. The trackpad is ridiculously good too. Everyone on internet keeps praising MacBook trackpads and honestly now I understand why. And the build quality feels premium in a way most Windows laptops still struggle to match.
@@ -74,7 +74,7 @@ The first thing I noticed was how little friction exists while using it. Open li
 For years I used to think Apple users exaggerated everything. Now suddenly I am using iPhone, MacBook Air and AirPods ecosystem together.
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <img src="/images/posts/2026-05-10/applememe.jpg" alt="applememe" width="400" height="220" />
+  <img src="/images/posts/2026-05-10/applememe.jpg" alt="applememe" />
 </div>
 
 The ecosystem integration is genuinely convenient. Copy something on phone and paste it on laptop. AirPods switching automatically. Notes syncing instantly. Calls appearing directly on laptop. Small small things individually, but together they remove lot of friction from daily life.
