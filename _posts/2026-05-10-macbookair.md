@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Arch Linux to MacBook Air"
+title: "Somehow, I Bought a MacBook"
 tags: [mac,linux]
 ---
 
